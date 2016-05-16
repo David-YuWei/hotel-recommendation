@@ -1,0 +1,6002 @@
+[
+	{
+		'id' : 674746,
+		'user_id' : "Yw",
+		'hotel_id' : 1,
+		'rating' : -1
+	},
+	{
+		'id' : 674747,
+		'user_id' : "Yw",
+		'hotel_id' : 9,
+		'rating' : 1
+	},
+	{
+		'id' : 674748,
+		'user_id' : "Yw",
+		'hotel_id' : 10,
+		'rating' : 1
+	},
+	{
+		'id' : 674749,
+		'user_id' : "Yw",
+		'hotel_id' : 13,
+		'rating' : -1
+	},
+	{
+		'id' : 674750,
+		'user_id' : "Yw",
+		'hotel_id' : 16,
+		'rating' : 1
+	},
+	{
+		'id' : 674751,
+		'user_id' : "Yw",
+		'hotel_id' : 18,
+		'rating' : 1
+	},
+	{
+		'id' : 674752,
+		'user_id' : "Yw",
+		'hotel_id' : 21,
+		'rating' : -1
+	},
+	{
+		'id' : 674753,
+		'user_id' : "Yw",
+		'hotel_id' : 24,
+		'rating' : -1
+	},
+	{
+		'id' : 674754,
+		'user_id' : "Yw",
+		'hotel_id' : 40,
+		'rating' : 1
+	},
+	{
+		'id' : 674755,
+		'user_id' : "Yw",
+		'hotel_id' : 41,
+		'rating' : -1
+	},
+	{
+		'id' : 674756,
+		'user_id' : "Yw",
+		'hotel_id' : 45,
+		'rating' : 1
+	},
+	{
+		'id' : 674757,
+		'user_id' : "Yw",
+		'hotel_id' : 47,
+		'rating' : 1
+	},
+	{
+		'id' : 674758,
+		'user_id' : "Yw",
+		'hotel_id' : 49,
+		'rating' : 1
+	},
+	{
+		'id' : 674759,
+		'user_id' : "Yw",
+		'hotel_id' : 58,
+		'rating' : 1
+	},
+	{
+		'id' : 674760,
+		'user_id' : "Yw",
+		'hotel_id' : 64,
+		'rating' : -1
+	},
+	{
+		'id' : 674761,
+		'user_id' : "Yw",
+		'hotel_id' : 65,
+		'rating' : -1
+	},
+	{
+		'id' : 674762,
+		'user_id' : "Yw",
+		'hotel_id' : 67,
+		'rating' : -1
+	},
+	{
+		'id' : 674763,
+		'user_id' : "Yw",
+		'hotel_id' : 70,
+		'rating' : 1
+	},
+	{
+		'id' : 674764,
+		'user_id' : "Yw",
+		'hotel_id' : 75,
+		'rating' : -1
+	},
+	{
+		'id' : 674765,
+		'user_id' : "Yw",
+		'hotel_id' : 85,
+		'rating' : 1
+	},
+	{
+		'id' : 674766,
+		'user_id' : "Yw",
+		'hotel_id' : 87,
+		'rating' : 1
+	},
+	{
+		'id' : 674767,
+		'user_id' : "Yw",
+		'hotel_id' : 88,
+		'rating' : 1
+	},
+	{
+		'id' : 674768,
+		'user_id' : "Yw",
+		'hotel_id' : 89,
+		'rating' : 1
+	},
+	{
+		'id' : 674769,
+		'user_id' : "Yw",
+		'hotel_id' : 90,
+		'rating' : -1
+	},
+	{
+		'id' : 674770,
+		'user_id' : "Yw",
+		'hotel_id' : 96,
+		'rating' : 1
+	},
+	{
+		'id' : 674771,
+		'user_id' : "Yw",
+		'hotel_id' : 97,
+		'rating' : -1
+	},
+	{
+		'id' : 674772,
+		'user_id' : "Yw",
+		'hotel_id' : 98,
+		'rating' : 1
+	},
+	{
+		'id' : 674773,
+		'user_id' : "Yw",
+		'hotel_id' : 99,
+		'rating' : 1
+	},
+	{
+		'id' : 674774,
+		'user_id' : "Yw",
+		'hotel_id' : 102,
+		'rating' : 1
+	},
+	{
+		'id' : 674775,
+		'user_id' : "Yw",
+		'hotel_id' : 103,
+		'rating' : -1
+	},
+	{
+		'id' : 674776,
+		'user_id' : "Yw",
+		'hotel_id' : 114,
+		'rating' : -1
+	},
+	{
+		'id' : 674777,
+		'user_id' : "Yw",
+		'hotel_id' : 119,
+		'rating' : -1
+	},
+	{
+		'id' : 674778,
+		'user_id' : "Yw",
+		'hotel_id' : 125,
+		'rating' : 1
+	},
+	{
+		'id' : 674779,
+		'user_id' : "Yw",
+		'hotel_id' : 126,
+		'rating' : 1
+	},
+	{
+		'id' : 674780,
+		'user_id' : "Yw",
+		'hotel_id' : 127,
+		'rating' : 1
+	},
+	{
+		'id' : 674781,
+		'user_id' : "Yw",
+		'hotel_id' : 146,
+		'rating' : 1
+	},
+	{
+		'id' : 674782,
+		'user_id' : "Yw",
+		'hotel_id' : 147,
+		'rating' : 1
+	},
+	{
+		'id' : 674783,
+		'user_id' : "Yw",
+		'hotel_id' : 148,
+		'rating' : 1
+	},
+	{
+		'id' : 674784,
+		'user_id' : "Yw",
+		'hotel_id' : 149,
+		'rating' : -1
+	},
+	{
+		'id' : 674785,
+		'user_id' : "Yw",
+		'hotel_id' : 153,
+		'rating' : -1
+	},
+	{
+		'id' : 674786,
+		'user_id' : "Yw",
+		'hotel_id' : 159,
+		'rating' : 1
+	},
+	{
+		'id' : 674787,
+		'user_id' : "Yw",
+		'hotel_id' : 162,
+		'rating' : 1
+	},
+	{
+		'id' : 674788,
+		'user_id' : "Yw",
+		'hotel_id' : 168,
+		'rating' : 1
+	},
+	{
+		'id' : 674789,
+		'user_id' : "Yw",
+		'hotel_id' : 169,
+		'rating' : 1
+	},
+	{
+		'id' : 674790,
+		'user_id' : "Yw",
+		'hotel_id' : 170,
+		'rating' : 1
+	},
+	{
+		'id' : 674791,
+		'user_id' : "Yw",
+		'hotel_id' : 177,
+		'rating' : 1
+	},
+	{
+		'id' : 674792,
+		'user_id' : "Yw",
+		'hotel_id' : 178,
+		'rating' : 1
+	},
+	{
+		'id' : 674793,
+		'user_id' : "Yw",
+		'hotel_id' : 181,
+		'rating' : 1
+	},
+	{
+		'id' : 674794,
+		'user_id' : "Yw",
+		'hotel_id' : 189,
+		'rating' : -1
+	},
+	{
+		'id' : 674795,
+		'user_id' : "Yw",
+		'hotel_id' : 192,
+		'rating' : 1
+	},
+	{
+		'id' : 674796,
+		'user_id' : "Yw",
+		'hotel_id' : 201,
+		'rating' : -1
+	},
+	{
+		'id' : 674797,
+		'user_id' : "Yw",
+		'hotel_id' : 203,
+		'rating' : -1
+	},
+	{
+		'id' : 674798,
+		'user_id' : "Yw",
+		'hotel_id' : 212,
+		'rating' : 1
+	},
+	{
+		'id' : 674799,
+		'user_id' : "Yw",
+		'hotel_id' : 216,
+		'rating' : 1
+	},
+	{
+		'id' : 674800,
+		'user_id' : "Yw",
+		'hotel_id' : 223,
+		'rating' : -1
+	},
+	{
+		'id' : 674801,
+		'user_id' : "Yw",
+		'hotel_id' : 227,
+		'rating' : 1
+	},
+	{
+		'id' : 674802,
+		'user_id' : "Yw",
+		'hotel_id' : 229,
+		'rating' : -1
+	},
+	{
+		'id' : 674803,
+		'user_id' : "Yw",
+		'hotel_id' : 234,
+		'rating' : -1
+	},
+	{
+		'id' : 674804,
+		'user_id' : "Yw",
+		'hotel_id' : 236,
+		'rating' : -1
+	},
+	{
+		'id' : 674805,
+		'user_id' : "Yw",
+		'hotel_id' : 237,
+		'rating' : 1
+	},
+	{
+		'id' : 674806,
+		'user_id' : "Yw",
+		'hotel_id' : 241,
+		'rating' : 1
+	},
+	{
+		'id' : 674807,
+		'user_id' : "Yw",
+		'hotel_id' : 242,
+		'rating' : -1
+	},
+	{
+		'id' : 674808,
+		'user_id' : "Yw",
+		'hotel_id' : 244,
+		'rating' : -1
+	},
+	{
+		'id' : 674809,
+		'user_id' : "Yw",
+		'hotel_id' : 246,
+		'rating' : 1
+	},
+	{
+		'id' : 674810,
+		'user_id' : "Yw",
+		'hotel_id' : 249,
+		'rating' : 1
+	},
+	{
+		'id' : 674811,
+		'user_id' : "Yw",
+		'hotel_id' : 257,
+		'rating' : 1
+	},
+	{
+		'id' : 674812,
+		'user_id' : "Yw",
+		'hotel_id' : 264,
+		'rating' : 1
+	},
+	{
+		'id' : 674813,
+		'user_id' : "Yw",
+		'hotel_id' : 267,
+		'rating' : 1
+	},
+	{
+		'id' : 674814,
+		'user_id' : "Yw",
+		'hotel_id' : 268,
+		'rating' : 1
+	},
+	{
+		'id' : 674815,
+		'user_id' : "Yw",
+		'hotel_id' : 273,
+		'rating' : 1
+	},
+	{
+		'id' : 674816,
+		'user_id' : "Yw",
+		'hotel_id' : 281,
+		'rating' : -1
+	},
+	{
+		'id' : 674817,
+		'user_id' : "Yw",
+		'hotel_id' : 288,
+		'rating' : -1
+	},
+	{
+		'id' : 674818,
+		'user_id' : "Yw",
+		'hotel_id' : 296,
+		'rating' : 1
+	},
+	{
+		'id' : 674819,
+		'user_id' : "Yw",
+		'hotel_id' : 297,
+		'rating' : 1
+	},
+	{
+		'id' : 674820,
+		'user_id' : "Yw",
+		'hotel_id' : 298,
+		'rating' : 1
+	},
+	{
+		'id' : 674821,
+		'user_id' : "Yw",
+		'hotel_id' : 299,
+		'rating' : 1
+	},
+	{
+		'id' : 674822,
+		'user_id' : "Yw",
+		'hotel_id' : 306,
+		'rating' : 1
+	},
+	{
+		'id' : 674823,
+		'user_id' : "Yw",
+		'hotel_id' : 309,
+		'rating' : 1
+	},
+	{
+		'id' : 674824,
+		'user_id' : "Yw",
+		'hotel_id' : 314,
+		'rating' : -1
+	},
+	{
+		'id' : 674825,
+		'user_id' : "Yw",
+		'hotel_id' : 316,
+		'rating' : 1
+	},
+	{
+		'id' : 674826,
+		'user_id' : "Yw",
+		'hotel_id' : 319,
+		'rating' : -1
+	},
+	{
+		'id' : 674827,
+		'user_id' : "Yw",
+		'hotel_id' : 332,
+		'rating' : 1
+	},
+	{
+		'id' : 674828,
+		'user_id' : "Yw",
+		'hotel_id' : 333,
+		'rating' : -1
+	},
+	{
+		'id' : 674829,
+		'user_id' : "Yw",
+		'hotel_id' : 334,
+		'rating' : 1
+	},
+	{
+		'id' : 674830,
+		'user_id' : "Yw",
+		'hotel_id' : 335,
+		'rating' : 1
+	},
+	{
+		'id' : 674831,
+		'user_id' : "Yw",
+		'hotel_id' : 337,
+		'rating' : 1
+	},
+	{
+		'id' : 674832,
+		'user_id' : "Yw",
+		'hotel_id' : 338,
+		'rating' : 1
+	},
+	{
+		'id' : 674833,
+		'user_id' : "Yw",
+		'hotel_id' : 342,
+		'rating' : -1
+	},
+	{
+		'id' : 674834,
+		'user_id' : "Yw",
+		'hotel_id' : 343,
+		'rating' : 1
+	},
+	{
+		'id' : 674835,
+		'user_id' : "Yw",
+		'hotel_id' : 348,
+		'rating' : 1
+	},
+	{
+		'id' : 674836,
+		'user_id' : "Yw",
+		'hotel_id' : 352,
+		'rating' : 1
+	},
+	{
+		'id' : 674837,
+		'user_id' : "Yw",
+		'hotel_id' : 356,
+		'rating' : 1
+	},
+	{
+		'id' : 674838,
+		'user_id' : "Yw",
+		'hotel_id' : 363,
+		'rating' : -1
+	},
+	{
+		'id' : 674839,
+		'user_id' : "Yw",
+		'hotel_id' : 365,
+		'rating' : 1
+	},
+	{
+		'id' : 674840,
+		'user_id' : "Yw",
+		'hotel_id' : 375,
+		'rating' : -1
+	},
+	{
+		'id' : 674841,
+		'user_id' : "Yw",
+		'hotel_id' : 379,
+		'rating' : 1
+	},
+	{
+		'id' : 674842,
+		'user_id' : "Yw",
+		'hotel_id' : 384,
+		'rating' : -1
+	},
+	{
+		'id' : 674843,
+		'user_id' : "Yw",
+		'hotel_id' : 385,
+		'rating' : 1
+	},
+	{
+		'id' : 674844,
+		'user_id' : "Yw",
+		'hotel_id' : 388,
+		'rating' : 1
+	},
+	{
+		'id' : 674845,
+		'user_id' : "Yw",
+		'hotel_id' : 396,
+		'rating' : -1
+	},
+	{
+		'id' : 674846,
+		'user_id' : "Yw",
+		'hotel_id' : 398,
+		'rating' : 1
+	},
+	{
+		'id' : 674847,
+		'user_id' : "Yw",
+		'hotel_id' : 400,
+		'rating' : -1
+	},
+	{
+		'id' : 674848,
+		'user_id' : "Yw",
+		'hotel_id' : 403,
+		'rating' : 1
+	},
+	{
+		'id' : 674849,
+		'user_id' : "Yw",
+		'hotel_id' : 408,
+		'rating' : 1
+	},
+	{
+		'id' : 674850,
+		'user_id' : "Yw",
+		'hotel_id' : 412,
+		'rating' : -1
+	},
+	{
+		'id' : 674851,
+		'user_id' : "Yw",
+		'hotel_id' : 413,
+		'rating' : 1
+	},
+	{
+		'id' : 674852,
+		'user_id' : "Yw",
+		'hotel_id' : 416,
+		'rating' : -1
+	},
+	{
+		'id' : 674853,
+		'user_id' : "Yw",
+		'hotel_id' : 418,
+		'rating' : -1
+	},
+	{
+		'id' : 674854,
+		'user_id' : "Yw",
+		'hotel_id' : 420,
+		'rating' : 1
+	},
+	{
+		'id' : 674855,
+		'user_id' : "Yw",
+		'hotel_id' : 428,
+		'rating' : 1
+	},
+	{
+		'id' : 674856,
+		'user_id' : "Yw",
+		'hotel_id' : 436,
+		'rating' : 1
+	},
+	{
+		'id' : 674857,
+		'user_id' : "Yw",
+		'hotel_id' : 450,
+		'rating' : 1
+	},
+	{
+		'id' : 674858,
+		'user_id' : "Yw",
+		'hotel_id' : 451,
+		'rating' : 1
+	},
+	{
+		'id' : 674859,
+		'user_id' : "Yw",
+		'hotel_id' : 462,
+		'rating' : 1
+	},
+	{
+		'id' : 674860,
+		'user_id' : "Yw",
+		'hotel_id' : 464,
+		'rating' : 1
+	},
+	{
+		'id' : 674861,
+		'user_id' : "Yw",
+		'hotel_id' : 471,
+		'rating' : 1
+	},
+	{
+		'id' : 674862,
+		'user_id' : "Yw",
+		'hotel_id' : 478,
+		'rating' : 1
+	},
+	{
+		'id' : 674863,
+		'user_id' : "Yw",
+		'hotel_id' : 479,
+		'rating' : 1
+	},
+	{
+		'id' : 674864,
+		'user_id' : "Yw",
+		'hotel_id' : 488,
+		'rating' : 1
+	},
+	{
+		'id' : 674865,
+		'user_id' : "Yw",
+		'hotel_id' : 492,
+		'rating' : 1
+	},
+	{
+		'id' : 674866,
+		'user_id' : "Yw",
+		'hotel_id' : 499,
+		'rating' : 1
+	},
+	{
+		'id' : 674867,
+		'user_id' : "Yw",
+		'hotel_id' : 518,
+		'rating' : -1
+	},
+	{
+		'id' : 674868,
+		'user_id' : "Yw",
+		'hotel_id' : 521,
+		'rating' : 1
+	},
+	{
+		'id' : 674869,
+		'user_id' : "Yw",
+		'hotel_id' : 526,
+		'rating' : -1
+	},
+	{
+		'id' : 674870,
+		'user_id' : "Yw",
+		'hotel_id' : 558,
+		'rating' : -1
+	},
+	{
+		'id' : 674871,
+		'user_id' : "Yw",
+		'hotel_id' : 562,
+		'rating' : 1
+	},
+	{
+		'id' : 674872,
+		'user_id' : "Yw",
+		'hotel_id' : 568,
+		'rating' : -1
+	},
+	{
+		'id' : 674873,
+		'user_id' : "Yw",
+		'hotel_id' : 570,
+		'rating' : 1
+	},
+	{
+		'id' : 674874,
+		'user_id' : "Yw",
+		'hotel_id' : 573,
+		'rating' : -1
+	},
+	{
+		'id' : 674875,
+		'user_id' : "Yw",
+		'hotel_id' : 578,
+		'rating' : 1
+	},
+	{
+		'id' : 674876,
+		'user_id' : "Yw",
+		'hotel_id' : 585,
+		'rating' : 1
+	},
+	{
+		'id' : 674877,
+		'user_id' : "Yw",
+		'hotel_id' : 634,
+		'rating' : 1
+	},
+	{
+		'id' : 674878,
+		'user_id' : "Yw",
+		'hotel_id' : 637,
+		'rating' : 1
+	},
+	{
+		'id' : 674879,
+		'user_id' : "Yw",
+		'hotel_id' : 641,
+		'rating' : -1
+	},
+	{
+		'id' : 674880,
+		'user_id' : "Yw",
+		'hotel_id' : 647,
+		'rating' : 1
+	},
+	{
+		'id' : 674881,
+		'user_id' : "Yw",
+		'hotel_id' : 653,
+		'rating' : 1
+	},
+	{
+		'id' : 674882,
+		'user_id' : "Kevin",
+		'hotel_id' : 6,
+		'rating' : -1
+	},
+	{
+		'id' : 674883,
+		'user_id' : "Kevin",
+		'hotel_id' : 11,
+		'rating' : -1
+	},
+	{
+		'id' : 674884,
+		'user_id' : "Kevin",
+		'hotel_id' : 13,
+		'rating' : -1
+	},
+	{
+		'id' : 674885,
+		'user_id' : "Kevin",
+		'hotel_id' : 16,
+		'rating' : -1
+	},
+	{
+		'id' : 674886,
+		'user_id' : "Kevin",
+		'hotel_id' : 18,
+		'rating' : 1
+	},
+	{
+		'id' : 674887,
+		'user_id' : "Kevin",
+		'hotel_id' : 27,
+		'rating' : 1
+	},
+	{
+		'id' : 674888,
+		'user_id' : "Kevin",
+		'hotel_id' : 45,
+		'rating' : 1
+	},
+	{
+		'id' : 674889,
+		'user_id' : "Kevin",
+		'hotel_id' : 48,
+		'rating' : -1
+	},
+	{
+		'id' : 674890,
+		'user_id' : "Kevin",
+		'hotel_id' : 49,
+		'rating' : 1
+	},
+	{
+		'id' : 674891,
+		'user_id' : "Kevin",
+		'hotel_id' : 55,
+		'rating' : -1
+	},
+	{
+		'id' : 674892,
+		'user_id' : "Kevin",
+		'hotel_id' : 62,
+		'rating' : 1
+	},
+	{
+		'id' : 674893,
+		'user_id' : "Kevin",
+		'hotel_id' : 63,
+		'rating' : -1
+	},
+	{
+		'id' : 674894,
+		'user_id' : "Kevin",
+		'hotel_id' : 66,
+		'rating' : 1
+	},
+	{
+		'id' : 674895,
+		'user_id' : "Kevin",
+		'hotel_id' : 67,
+		'rating' : -1
+	},
+	{
+		'id' : 674896,
+		'user_id' : "Kevin",
+		'hotel_id' : 68,
+		'rating' : 1
+	},
+	{
+		'id' : 674897,
+		'user_id' : "Kevin",
+		'hotel_id' : 73,
+		'rating' : 1
+	},
+	{
+		'id' : 674898,
+		'user_id' : "Kevin",
+		'hotel_id' : 75,
+		'rating' : -1
+	},
+	{
+		'id' : 674899,
+		'user_id' : "Kevin",
+		'hotel_id' : 81,
+		'rating' : 1
+	},
+	{
+		'id' : 674900,
+		'user_id' : "Kevin",
+		'hotel_id' : 84,
+		'rating' : -1
+	},
+	{
+		'id' : 674901,
+		'user_id' : "Kevin",
+		'hotel_id' : 86,
+		'rating' : 1
+	},
+	{
+		'id' : 674902,
+		'user_id' : "Kevin",
+		'hotel_id' : 87,
+		'rating' : -1
+	},
+	{
+		'id' : 674903,
+		'user_id' : "Kevin",
+		'hotel_id' : 89,
+		'rating' : -1
+	},
+	{
+		'id' : 674904,
+		'user_id' : "Kevin",
+		'hotel_id' : 90,
+		'rating' : 1
+	},
+	{
+		'id' : 674905,
+		'user_id' : "Kevin",
+		'hotel_id' : 103,
+		'rating' : -1
+	},
+	{
+		'id' : 674906,
+		'user_id' : "Kevin",
+		'hotel_id' : 104,
+		'rating' : 1
+	},
+	{
+		'id' : 674907,
+		'user_id' : "Kevin",
+		'hotel_id' : 105,
+		'rating' : -1
+	},
+	{
+		'id' : 674908,
+		'user_id' : "Kevin",
+		'hotel_id' : 107,
+		'rating' : 1
+	},
+	{
+		'id' : 674909,
+		'user_id' : "Kevin",
+		'hotel_id' : 109,
+		'rating' : 1
+	},
+	{
+		'id' : 674910,
+		'user_id' : "Kevin",
+		'hotel_id' : 113,
+		'rating' : -1
+	},
+	{
+		'id' : 674911,
+		'user_id' : "Kevin",
+		'hotel_id' : 114,
+		'rating' : -1
+	},
+	{
+		'id' : 674912,
+		'user_id' : "Kevin",
+		'hotel_id' : 119,
+		'rating' : 1
+	},
+	{
+		'id' : 674913,
+		'user_id' : "Kevin",
+		'hotel_id' : 122,
+		'rating' : 1
+	},
+	{
+		'id' : 674914,
+		'user_id' : "Kevin",
+		'hotel_id' : 124,
+		'rating' : -1
+	},
+	{
+		'id' : 674915,
+		'user_id' : "Kevin",
+		'hotel_id' : 125,
+		'rating' : 1
+	},
+	{
+		'id' : 674916,
+		'user_id' : "Kevin",
+		'hotel_id' : 130,
+		'rating' : 1
+	},
+	{
+		'id' : 674917,
+		'user_id' : "Kevin",
+		'hotel_id' : 131,
+		'rating' : 1
+	},
+	{
+		'id' : 674918,
+		'user_id' : "Kevin",
+		'hotel_id' : 134,
+		'rating' : -1
+	},
+	{
+		'id' : 674919,
+		'user_id' : "Kevin",
+		'hotel_id' : 137,
+		'rating' : -1
+	},
+	{
+		'id' : 674920,
+		'user_id' : "Kevin",
+		'hotel_id' : 140,
+		'rating' : -1
+	},
+	{
+		'id' : 674921,
+		'user_id' : "Kevin",
+		'hotel_id' : 142,
+		'rating' : -1
+	},
+	{
+		'id' : 674922,
+		'user_id' : "Kevin",
+		'hotel_id' : 150,
+		'rating' : 1
+	},
+	{
+		'id' : 674923,
+		'user_id' : "Kevin",
+		'hotel_id' : 155,
+		'rating' : 1
+	},
+	{
+		'id' : 674924,
+		'user_id' : "Kevin",
+		'hotel_id' : 161,
+		'rating' : -1
+	},
+	{
+		'id' : 674925,
+		'user_id' : "Kevin",
+		'hotel_id' : 162,
+		'rating' : -1
+	},
+	{
+		'id' : 674926,
+		'user_id' : "Kevin",
+		'hotel_id' : 166,
+		'rating' : 1
+	},
+	{
+		'id' : 674927,
+		'user_id' : "Kevin",
+		'hotel_id' : 167,
+		'rating' : -1
+	},
+	{
+		'id' : 674928,
+		'user_id' : "Kevin",
+		'hotel_id' : 175,
+		'rating' : -1
+	},
+	{
+		'id' : 674929,
+		'user_id' : "Kevin",
+		'hotel_id' : 176,
+		'rating' : 1
+	},
+	{
+		'id' : 674930,
+		'user_id' : "Kevin",
+		'hotel_id' : 179,
+		'rating' : -1
+	},
+	{
+		'id' : 674931,
+		'user_id' : "Kevin",
+		'hotel_id' : 182,
+		'rating' : -1
+	},
+	{
+		'id' : 674932,
+		'user_id' : "Kevin",
+		'hotel_id' : 185,
+		'rating' : 1
+	},
+	{
+		'id' : 674933,
+		'user_id' : "Kevin",
+		'hotel_id' : 188,
+		'rating' : 1
+	},
+	{
+		'id' : 674934,
+		'user_id' : "Kevin",
+		'hotel_id' : 192,
+		'rating' : 1
+	},
+	{
+		'id' : 674935,
+		'user_id' : "Kevin",
+		'hotel_id' : 194,
+		'rating' : -1
+	},
+	{
+		'id' : 674936,
+		'user_id' : "Kevin",
+		'hotel_id' : 196,
+		'rating' : 1
+	},
+	{
+		'id' : 674937,
+		'user_id' : "Kevin",
+		'hotel_id' : 199,
+		'rating' : 1
+	},
+	{
+		'id' : 674938,
+		'user_id' : "Kevin",
+		'hotel_id' : 204,
+		'rating' : -1
+	},
+	{
+		'id' : 674939,
+		'user_id' : "Kevin",
+		'hotel_id' : 205,
+		'rating' : -1
+	},
+	{
+		'id' : 674940,
+		'user_id' : "Kevin",
+		'hotel_id' : 215,
+		'rating' : 1
+	},
+	{
+		'id' : 674941,
+		'user_id' : "Kevin",
+		'hotel_id' : 218,
+		'rating' : 1
+	},
+	{
+		'id' : 674942,
+		'user_id' : "Kevin",
+		'hotel_id' : 220,
+		'rating' : 1
+	},
+	{
+		'id' : 674943,
+		'user_id' : "Kevin",
+		'hotel_id' : 224,
+		'rating' : 1
+	},
+	{
+		'id' : 674944,
+		'user_id' : "Kevin",
+		'hotel_id' : 225,
+		'rating' : 1
+	},
+	{
+		'id' : 674945,
+		'user_id' : "Kevin",
+		'hotel_id' : 226,
+		'rating' : -1
+	},
+	{
+		'id' : 674946,
+		'user_id' : "Kevin",
+		'hotel_id' : 227,
+		'rating' : 1
+	},
+	{
+		'id' : 674947,
+		'user_id' : "Kevin",
+		'hotel_id' : 229,
+		'rating' : -1
+	},
+	{
+		'id' : 674948,
+		'user_id' : "Kevin",
+		'hotel_id' : 232,
+		'rating' : -1
+	},
+	{
+		'id' : 674949,
+		'user_id' : "Kevin",
+		'hotel_id' : 233,
+		'rating' : -1
+	},
+	{
+		'id' : 674950,
+		'user_id' : "Kevin",
+		'hotel_id' : 244,
+		'rating' : 1
+	},
+	{
+		'id' : 674951,
+		'user_id' : "Kevin",
+		'hotel_id' : 246,
+		'rating' : 1
+	},
+	{
+		'id' : 674952,
+		'user_id' : "Kevin",
+		'hotel_id' : 264,
+		'rating' : -1
+	},
+	{
+		'id' : 674953,
+		'user_id' : "Kevin",
+		'hotel_id' : 266,
+		'rating' : -1
+	},
+	{
+		'id' : 674954,
+		'user_id' : "Kevin",
+		'hotel_id' : 268,
+		'rating' : -1
+	},
+	{
+		'id' : 674955,
+		'user_id' : "Kevin",
+		'hotel_id' : 269,
+		'rating' : 1
+	},
+	{
+		'id' : 674956,
+		'user_id' : "Kevin",
+		'hotel_id' : 270,
+		'rating' : 1
+	},
+	{
+		'id' : 674957,
+		'user_id' : "Kevin",
+		'hotel_id' : 271,
+		'rating' : 1
+	},
+	{
+		'id' : 674958,
+		'user_id' : "Kevin",
+		'hotel_id' : 272,
+		'rating' : 1
+	},
+	{
+		'id' : 674959,
+		'user_id' : "Kevin",
+		'hotel_id' : 274,
+		'rating' : -1
+	},
+	{
+		'id' : 674960,
+		'user_id' : "Kevin",
+		'hotel_id' : 278,
+		'rating' : -1
+	},
+	{
+		'id' : 674961,
+		'user_id' : "Kevin",
+		'hotel_id' : 279,
+		'rating' : -1
+	},
+	{
+		'id' : 674962,
+		'user_id' : "Kevin",
+		'hotel_id' : 285,
+		'rating' : 1
+	},
+	{
+		'id' : 674963,
+		'user_id' : "Kevin",
+		'hotel_id' : 291,
+		'rating' : 1
+	},
+	{
+		'id' : 674964,
+		'user_id' : "Kevin",
+		'hotel_id' : 296,
+		'rating' : 1
+	},
+	{
+		'id' : 674965,
+		'user_id' : "Kevin",
+		'hotel_id' : 300,
+		'rating' : 1
+	},
+	{
+		'id' : 674966,
+		'user_id' : "Kevin",
+		'hotel_id' : 301,
+		'rating' : 1
+	},
+	{
+		'id' : 674967,
+		'user_id' : "Kevin",
+		'hotel_id' : 306,
+		'rating' : 1
+	},
+	{
+		'id' : 674968,
+		'user_id' : "Kevin",
+		'hotel_id' : 311,
+		'rating' : -1
+	},
+	{
+		'id' : 674969,
+		'user_id' : "Kevin",
+		'hotel_id' : 316,
+		'rating' : 1
+	},
+	{
+		'id' : 674970,
+		'user_id' : "Kevin",
+		'hotel_id' : 318,
+		'rating' : -1
+	},
+	{
+		'id' : 674971,
+		'user_id' : "Kevin",
+		'hotel_id' : 321,
+		'rating' : -1
+	},
+	{
+		'id' : 674972,
+		'user_id' : "Kevin",
+		'hotel_id' : 333,
+		'rating' : 1
+	},
+	{
+		'id' : 674973,
+		'user_id' : "Kevin",
+		'hotel_id' : 334,
+		'rating' : 1
+	},
+	{
+		'id' : 674974,
+		'user_id' : "Kevin",
+		'hotel_id' : 345,
+		'rating' : 1
+	},
+	{
+		'id' : 674975,
+		'user_id' : "Kevin",
+		'hotel_id' : 346,
+		'rating' : 1
+	},
+	{
+		'id' : 674976,
+		'user_id' : "Kevin",
+		'hotel_id' : 348,
+		'rating' : 1
+	},
+	{
+		'id' : 674977,
+		'user_id' : "Kevin",
+		'hotel_id' : 349,
+		'rating' : -1
+	},
+	{
+		'id' : 674978,
+		'user_id' : "Kevin",
+		'hotel_id' : 353,
+		'rating' : -1
+	},
+	{
+		'id' : 674979,
+		'user_id' : "Kevin",
+		'hotel_id' : 360,
+		'rating' : -1
+	},
+	{
+		'id' : 674980,
+		'user_id' : "Kevin",
+		'hotel_id' : 365,
+		'rating' : -1
+	},
+	{
+		'id' : 674981,
+		'user_id' : "Kevin",
+		'hotel_id' : 366,
+		'rating' : 1
+	},
+	{
+		'id' : 674982,
+		'user_id' : "Kevin",
+		'hotel_id' : 367,
+		'rating' : 1
+	},
+	{
+		'id' : 674983,
+		'user_id' : "Kevin",
+		'hotel_id' : 369,
+		'rating' : 1
+	},
+	{
+		'id' : 674984,
+		'user_id' : "Kevin",
+		'hotel_id' : 374,
+		'rating' : 1
+	},
+	{
+		'id' : 674985,
+		'user_id' : "Kevin",
+		'hotel_id' : 375,
+		'rating' : -1
+	},
+	{
+		'id' : 674986,
+		'user_id' : "Kevin",
+		'hotel_id' : 377,
+		'rating' : 1
+	},
+	{
+		'id' : 674987,
+		'user_id' : "Kevin",
+		'hotel_id' : 379,
+		'rating' : 1
+	},
+	{
+		'id' : 674988,
+		'user_id' : "Kevin",
+		'hotel_id' : 389,
+		'rating' : 1
+	},
+	{
+		'id' : 674989,
+		'user_id' : "Kevin",
+		'hotel_id' : 392,
+		'rating' : -1
+	},
+	{
+		'id' : 674990,
+		'user_id' : "Kevin",
+		'hotel_id' : 396,
+		'rating' : 1
+	},
+	{
+		'id' : 674991,
+		'user_id' : "Kevin",
+		'hotel_id' : 400,
+		'rating' : 1
+	},
+	{
+		'id' : 674992,
+		'user_id' : "Kevin",
+		'hotel_id' : 402,
+		'rating' : 1
+	},
+	{
+		'id' : 674993,
+		'user_id' : "Kevin",
+		'hotel_id' : 404,
+		'rating' : -1
+	},
+	{
+		'id' : 674994,
+		'user_id' : "Kevin",
+		'hotel_id' : 406,
+		'rating' : 1
+	},
+	{
+		'id' : 674995,
+		'user_id' : "Kevin",
+		'hotel_id' : 408,
+		'rating' : 1
+	},
+	{
+		'id' : 674996,
+		'user_id' : "Kevin",
+		'hotel_id' : 414,
+		'rating' : 1
+	},
+	{
+		'id' : 674997,
+		'user_id' : "Kevin",
+		'hotel_id' : 416,
+		'rating' : -1
+	},
+	{
+		'id' : 674998,
+		'user_id' : "Kevin",
+		'hotel_id' : 424,
+		'rating' : 1
+	},
+	{
+		'id' : 674999,
+		'user_id' : "Kevin",
+		'hotel_id' : 437,
+		'rating' : -1
+	},
+	{
+		'id' : 675000,
+		'user_id' : "Kevin",
+		'hotel_id' : 438,
+		'rating' : 1
+	},
+	{
+		'id' : 675001,
+		'user_id' : "Kevin",
+		'hotel_id' : 445,
+		'rating' : -1
+	},
+	{
+		'id' : 675002,
+		'user_id' : "Kevin",
+		'hotel_id' : 448,
+		'rating' : -1
+	},
+	{
+		'id' : 675003,
+		'user_id' : "Kevin",
+		'hotel_id' : 453,
+		'rating' : 1
+	},
+	{
+		'id' : 675004,
+		'user_id' : "Kevin",
+		'hotel_id' : 457,
+		'rating' : -1
+	},
+	{
+		'id' : 675005,
+		'user_id' : "Kevin",
+		'hotel_id' : 458,
+		'rating' : 1
+	},
+	{
+		'id' : 675006,
+		'user_id' : "Kevin",
+		'hotel_id' : 461,
+		'rating' : 1
+	},
+	{
+		'id' : 675007,
+		'user_id' : "Kevin",
+		'hotel_id' : 466,
+		'rating' : -1
+	},
+	{
+		'id' : 675008,
+		'user_id' : "Kevin",
+		'hotel_id' : 488,
+		'rating' : 1
+	},
+	{
+		'id' : 675009,
+		'user_id' : "Kevin",
+		'hotel_id' : 499,
+		'rating' : -1
+	},
+	{
+		'id' : 675010,
+		'user_id' : "Kevin",
+		'hotel_id' : 505,
+		'rating' : 1
+	},
+	{
+		'id' : 675011,
+		'user_id' : "Kevin",
+		'hotel_id' : 518,
+		'rating' : 1
+	},
+	{
+		'id' : 675012,
+		'user_id' : "Kevin",
+		'hotel_id' : 521,
+		'rating' : -1
+	},
+	{
+		'id' : 675013,
+		'user_id' : "Kevin",
+		'hotel_id' : 522,
+		'rating' : -1
+	},
+	{
+		'id' : 675014,
+		'user_id' : "Kevin",
+		'hotel_id' : 533,
+		'rating' : -1
+	},
+	{
+		'id' : 675015,
+		'user_id' : "Kevin",
+		'hotel_id' : 540,
+		'rating' : -1
+	},
+	{
+		'id' : 675016,
+		'user_id' : "Kevin",
+		'hotel_id' : 542,
+		'rating' : 1
+	},
+	{
+		'id' : 675017,
+		'user_id' : "Kevin",
+		'hotel_id' : 548,
+		'rating' : -1
+	},
+	{
+		'id' : 675018,
+		'user_id' : "Kevin",
+		'hotel_id' : 553,
+		'rating' : 1
+	},
+	{
+		'id' : 675019,
+		'user_id' : "Kevin",
+		'hotel_id' : 554,
+		'rating' : 1
+	},
+	{
+		'id' : 675020,
+		'user_id' : "Kevin",
+		'hotel_id' : 555,
+		'rating' : 1
+	},
+	{
+		'id' : 675021,
+		'user_id' : "Kevin",
+		'hotel_id' : 582,
+		'rating' : 1
+	},
+	{
+		'id' : 675022,
+		'user_id' : "Kevin",
+		'hotel_id' : 585,
+		'rating' : -1
+	},
+	{
+		'id' : 675023,
+		'user_id' : "Kevin",
+		'hotel_id' : 593,
+		'rating' : 1
+	},
+	{
+		'id' : 675024,
+		'user_id' : "Kevin",
+		'hotel_id' : 605,
+		'rating' : 1
+	},
+	{
+		'id' : 675025,
+		'user_id' : "Kevin",
+		'hotel_id' : 608,
+		'rating' : -1
+	},
+	{
+		'id' : 675026,
+		'user_id' : "Kevin",
+		'hotel_id' : 609,
+		'rating' : -1
+	},
+	{
+		'id' : 675027,
+		'user_id' : "Kevin",
+		'hotel_id' : 614,
+		'rating' : 1
+	},
+	{
+		'id' : 675028,
+		'user_id' : "Kevin",
+		'hotel_id' : 622,
+		'rating' : 1
+	},
+	{
+		'id' : 675029,
+		'user_id' : "Kevin",
+		'hotel_id' : 623,
+		'rating' : 1
+	},
+	{
+		'id' : 675030,
+		'user_id' : "Kevin",
+		'hotel_id' : 624,
+		'rating' : -1
+	},
+	{
+		'id' : 675031,
+		'user_id' : "Kevin",
+		'hotel_id' : 628,
+		'rating' : -1
+	},
+	{
+		'id' : 675032,
+		'user_id' : "Kevin",
+		'hotel_id' : 647,
+		'rating' : 1
+	},
+	{
+		'id' : 675033,
+		'user_id' : "Kevin",
+		'hotel_id' : 648,
+		'rating' : -1
+	},
+	{
+		'id' : 675034,
+		'user_id' : "Kevin",
+		'hotel_id' : 650,
+		'rating' : 1
+	},
+	{
+		'id' : 675035,
+		'user_id' : "Kevin",
+		'hotel_id' : 651,
+		'rating' : 1
+	},
+	{
+		'id' : 675036,
+		'user_id' : "Kevin",
+		'hotel_id' : 655,
+		'rating' : 1
+	},
+	{
+		'id' : 675037,
+		'user_id' : "Martin",
+		'hotel_id' : 1,
+		'rating' : 1
+	},
+	{
+		'id' : 675038,
+		'user_id' : "Martin",
+		'hotel_id' : 6,
+		'rating' : 1
+	},
+	{
+		'id' : 675039,
+		'user_id' : "Martin",
+		'hotel_id' : 8,
+		'rating' : 1
+	},
+	{
+		'id' : 675040,
+		'user_id' : "Martin",
+		'hotel_id' : 9,
+		'rating' : 1
+	},
+	{
+		'id' : 675041,
+		'user_id' : "Martin",
+		'hotel_id' : 11,
+		'rating' : 1
+	},
+	{
+		'id' : 675042,
+		'user_id' : "Martin",
+		'hotel_id' : 27,
+		'rating' : 1
+	},
+	{
+		'id' : 675043,
+		'user_id' : "Martin",
+		'hotel_id' : 41,
+		'rating' : 1
+	},
+	{
+		'id' : 675044,
+		'user_id' : "Martin",
+		'hotel_id' : 44,
+		'rating' : -1
+	},
+	{
+		'id' : 675045,
+		'user_id' : "Martin",
+		'hotel_id' : 45,
+		'rating' : -1
+	},
+	{
+		'id' : 675046,
+		'user_id' : "Martin",
+		'hotel_id' : 64,
+		'rating' : -1
+	},
+	{
+		'id' : 675047,
+		'user_id' : "Martin",
+		'hotel_id' : 72,
+		'rating' : 1
+	},
+	{
+		'id' : 675048,
+		'user_id' : "Martin",
+		'hotel_id' : 75,
+		'rating' : 1
+	},
+	{
+		'id' : 675049,
+		'user_id' : "Martin",
+		'hotel_id' : 82,
+		'rating' : 1
+	},
+	{
+		'id' : 675050,
+		'user_id' : "Martin",
+		'hotel_id' : 86,
+		'rating' : 1
+	},
+	{
+		'id' : 675051,
+		'user_id' : "Martin",
+		'hotel_id' : 89,
+		'rating' : -1
+	},
+	{
+		'id' : 675052,
+		'user_id' : "Martin",
+		'hotel_id' : 90,
+		'rating' : 1
+	},
+	{
+		'id' : 675053,
+		'user_id' : "Martin",
+		'hotel_id' : 91,
+		'rating' : 1
+	},
+	{
+		'id' : 675054,
+		'user_id' : "Martin",
+		'hotel_id' : 94,
+		'rating' : -1
+	},
+	{
+		'id' : 675055,
+		'user_id' : "Martin",
+		'hotel_id' : 97,
+		'rating' : 1
+	},
+	{
+		'id' : 675056,
+		'user_id' : "Martin",
+		'hotel_id' : 99,
+		'rating' : 1
+	},
+	{
+		'id' : 675057,
+		'user_id' : "Martin",
+		'hotel_id' : 102,
+		'rating' : 1
+	},
+	{
+		'id' : 675058,
+		'user_id' : "Martin",
+		'hotel_id' : 105,
+		'rating' : 1
+	},
+	{
+		'id' : 675059,
+		'user_id' : "Martin",
+		'hotel_id' : 108,
+		'rating' : -1
+	},
+	{
+		'id' : 675060,
+		'user_id' : "Martin",
+		'hotel_id' : 112,
+		'rating' : -1
+	},
+	{
+		'id' : 675061,
+		'user_id' : "Martin",
+		'hotel_id' : 114,
+		'rating' : 1
+	},
+	{
+		'id' : 675062,
+		'user_id' : "Martin",
+		'hotel_id' : 118,
+		'rating' : 1
+	},
+	{
+		'id' : 675063,
+		'user_id' : "Martin",
+		'hotel_id' : 119,
+		'rating' : -1
+	},
+	{
+		'id' : 675064,
+		'user_id' : "Martin",
+		'hotel_id' : 123,
+		'rating' : 1
+	},
+	{
+		'id' : 675065,
+		'user_id' : "Martin",
+		'hotel_id' : 124,
+		'rating' : 1
+	},
+	{
+		'id' : 675066,
+		'user_id' : "Martin",
+		'hotel_id' : 125,
+		'rating' : 1
+	},
+	{
+		'id' : 675067,
+		'user_id' : "Martin",
+		'hotel_id' : 130,
+		'rating' : 1
+	},
+	{
+		'id' : 675068,
+		'user_id' : "Martin",
+		'hotel_id' : 132,
+		'rating' : 1
+	},
+	{
+		'id' : 675069,
+		'user_id' : "Martin",
+		'hotel_id' : 134,
+		'rating' : -1
+	},
+	{
+		'id' : 675070,
+		'user_id' : "Martin",
+		'hotel_id' : 140,
+		'rating' : 1
+	},
+	{
+		'id' : 675071,
+		'user_id' : "Martin",
+		'hotel_id' : 144,
+		'rating' : -1
+	},
+	{
+		'id' : 675072,
+		'user_id' : "Martin",
+		'hotel_id' : 148,
+		'rating' : 1
+	},
+	{
+		'id' : 675073,
+		'user_id' : "Martin",
+		'hotel_id' : 153,
+		'rating' : 1
+	},
+	{
+		'id' : 675074,
+		'user_id' : "Martin",
+		'hotel_id' : 154,
+		'rating' : -1
+	},
+	{
+		'id' : 675075,
+		'user_id' : "Martin",
+		'hotel_id' : 161,
+		'rating' : 1
+	},
+	{
+		'id' : 675076,
+		'user_id' : "Martin",
+		'hotel_id' : 165,
+		'rating' : -1
+	},
+	{
+		'id' : 675077,
+		'user_id' : "Martin",
+		'hotel_id' : 166,
+		'rating' : -1
+	},
+	{
+		'id' : 675078,
+		'user_id' : "Martin",
+		'hotel_id' : 177,
+		'rating' : 1
+	},
+	{
+		'id' : 675079,
+		'user_id' : "Martin",
+		'hotel_id' : 178,
+		'rating' : -1
+	},
+	{
+		'id' : 675080,
+		'user_id' : "Martin",
+		'hotel_id' : 182,
+		'rating' : 1
+	},
+	{
+		'id' : 675081,
+		'user_id' : "Martin",
+		'hotel_id' : 183,
+		'rating' : -1
+	},
+	{
+		'id' : 675082,
+		'user_id' : "Martin",
+		'hotel_id' : 185,
+		'rating' : -1
+	},
+	{
+		'id' : 675083,
+		'user_id' : "Martin",
+		'hotel_id' : 189,
+		'rating' : 1
+	},
+	{
+		'id' : 675084,
+		'user_id' : "Martin",
+		'hotel_id' : 191,
+		'rating' : -1
+	},
+	{
+		'id' : 675085,
+		'user_id' : "Martin",
+		'hotel_id' : 201,
+		'rating' : -1
+	},
+	{
+		'id' : 675086,
+		'user_id' : "Martin",
+		'hotel_id' : 202,
+		'rating' : 1
+	},
+	{
+		'id' : 675087,
+		'user_id' : "Martin",
+		'hotel_id' : 215,
+		'rating' : 1
+	},
+	{
+		'id' : 675088,
+		'user_id' : "Martin",
+		'hotel_id' : 218,
+		'rating' : 1
+	},
+	{
+		'id' : 675089,
+		'user_id' : "Martin",
+		'hotel_id' : 219,
+		'rating' : 1
+	},
+	{
+		'id' : 675090,
+		'user_id' : "Martin",
+		'hotel_id' : 226,
+		'rating' : 1
+	},
+	{
+		'id' : 675091,
+		'user_id' : "Martin",
+		'hotel_id' : 235,
+		'rating' : 1
+	},
+	{
+		'id' : 675092,
+		'user_id' : "Martin",
+		'hotel_id' : 238,
+		'rating' : 1
+	},
+	{
+		'id' : 675093,
+		'user_id' : "Martin",
+		'hotel_id' : 240,
+		'rating' : 1
+	},
+	{
+		'id' : 675094,
+		'user_id' : "Martin",
+		'hotel_id' : 243,
+		'rating' : 1
+	},
+	{
+		'id' : 675095,
+		'user_id' : "Martin",
+		'hotel_id' : 246,
+		'rating' : 1
+	},
+	{
+		'id' : 675096,
+		'user_id' : "Martin",
+		'hotel_id' : 253,
+		'rating' : 1
+	},
+	{
+		'id' : 675097,
+		'user_id' : "Martin",
+		'hotel_id' : 264,
+		'rating' : -1
+	},
+	{
+		'id' : 675098,
+		'user_id' : "Martin",
+		'hotel_id' : 266,
+		'rating' : -1
+	},
+	{
+		'id' : 675099,
+		'user_id' : "Martin",
+		'hotel_id' : 268,
+		'rating' : 1
+	},
+	{
+		'id' : 675100,
+		'user_id' : "Martin",
+		'hotel_id' : 275,
+		'rating' : 1
+	},
+	{
+		'id' : 675101,
+		'user_id' : "Martin",
+		'hotel_id' : 279,
+		'rating' : 1
+	},
+	{
+		'id' : 675102,
+		'user_id' : "Martin",
+		'hotel_id' : 280,
+		'rating' : 1
+	},
+	{
+		'id' : 675103,
+		'user_id' : "Martin",
+		'hotel_id' : 285,
+		'rating' : -1
+	},
+	{
+		'id' : 675104,
+		'user_id' : "Martin",
+		'hotel_id' : 287,
+		'rating' : -1
+	},
+	{
+		'id' : 675105,
+		'user_id' : "Martin",
+		'hotel_id' : 293,
+		'rating' : 1
+	},
+	{
+		'id' : 675106,
+		'user_id' : "Martin",
+		'hotel_id' : 295,
+		'rating' : -1
+	},
+	{
+		'id' : 675107,
+		'user_id' : "Martin",
+		'hotel_id' : 297,
+		'rating' : -1
+	},
+	{
+		'id' : 675108,
+		'user_id' : "Martin",
+		'hotel_id' : 298,
+		'rating' : 1
+	},
+	{
+		'id' : 675109,
+		'user_id' : "Martin",
+		'hotel_id' : 305,
+		'rating' : 1
+	},
+	{
+		'id' : 675110,
+		'user_id' : "Martin",
+		'hotel_id' : 306,
+		'rating' : -1
+	},
+	{
+		'id' : 675111,
+		'user_id' : "Martin",
+		'hotel_id' : 309,
+		'rating' : -1
+	},
+	{
+		'id' : 675112,
+		'user_id' : "Martin",
+		'hotel_id' : 311,
+		'rating' : -1
+	},
+	{
+		'id' : 675113,
+		'user_id' : "Martin",
+		'hotel_id' : 314,
+		'rating' : 1
+	},
+	{
+		'id' : 675114,
+		'user_id' : "Martin",
+		'hotel_id' : 317,
+		'rating' : -1
+	},
+	{
+		'id' : 675115,
+		'user_id' : "Martin",
+		'hotel_id' : 320,
+		'rating' : 1
+	},
+	{
+		'id' : 675116,
+		'user_id' : "Martin",
+		'hotel_id' : 326,
+		'rating' : 1
+	},
+	{
+		'id' : 675117,
+		'user_id' : "Martin",
+		'hotel_id' : 329,
+		'rating' : -1
+	},
+	{
+		'id' : 675118,
+		'user_id' : "Martin",
+		'hotel_id' : 331,
+		'rating' : 1
+	},
+	{
+		'id' : 675119,
+		'user_id' : "Martin",
+		'hotel_id' : 334,
+		'rating' : -1
+	},
+	{
+		'id' : 675120,
+		'user_id' : "Martin",
+		'hotel_id' : 345,
+		'rating' : 1
+	},
+	{
+		'id' : 675121,
+		'user_id' : "Martin",
+		'hotel_id' : 346,
+		'rating' : -1
+	},
+	{
+		'id' : 675122,
+		'user_id' : "Martin",
+		'hotel_id' : 377,
+		'rating' : -1
+	},
+	{
+		'id' : 675123,
+		'user_id' : "Martin",
+		'hotel_id' : 381,
+		'rating' : 1
+	},
+	{
+		'id' : 675124,
+		'user_id' : "Martin",
+		'hotel_id' : 384,
+		'rating' : 1
+	},
+	{
+		'id' : 675125,
+		'user_id' : "Martin",
+		'hotel_id' : 385,
+		'rating' : -1
+	},
+	{
+		'id' : 675126,
+		'user_id' : "Martin",
+		'hotel_id' : 389,
+		'rating' : 1
+	},
+	{
+		'id' : 675127,
+		'user_id' : "Martin",
+		'hotel_id' : 407,
+		'rating' : -1
+	},
+	{
+		'id' : 675128,
+		'user_id' : "Martin",
+		'hotel_id' : 419,
+		'rating' : -1
+	},
+	{
+		'id' : 675129,
+		'user_id' : "Martin",
+		'hotel_id' : 424,
+		'rating' : -1
+	},
+	{
+		'id' : 675130,
+		'user_id' : "Martin",
+		'hotel_id' : 430,
+		'rating' : 1
+	},
+	{
+		'id' : 675131,
+		'user_id' : "Martin",
+		'hotel_id' : 434,
+		'rating' : -1
+	},
+	{
+		'id' : 675132,
+		'user_id' : "Martin",
+		'hotel_id' : 436,
+		'rating' : 1
+	},
+	{
+		'id' : 675133,
+		'user_id' : "Martin",
+		'hotel_id' : 437,
+		'rating' : 1
+	},
+	{
+		'id' : 675134,
+		'user_id' : "Martin",
+		'hotel_id' : 440,
+		'rating' : 1
+	},
+	{
+		'id' : 675135,
+		'user_id' : "Martin",
+		'hotel_id' : 444,
+		'rating' : 1
+	},
+	{
+		'id' : 675136,
+		'user_id' : "Martin",
+		'hotel_id' : 449,
+		'rating' : -1
+	},
+	{
+		'id' : 675137,
+		'user_id' : "Martin",
+		'hotel_id' : 450,
+		'rating' : 1
+	},
+	{
+		'id' : 675138,
+		'user_id' : "Martin",
+		'hotel_id' : 453,
+		'rating' : 1
+	},
+	{
+		'id' : 675139,
+		'user_id' : "Martin",
+		'hotel_id' : 461,
+		'rating' : 1
+	},
+	{
+		'id' : 675140,
+		'user_id' : "Martin",
+		'hotel_id' : 466,
+		'rating' : -1
+	},
+	{
+		'id' : 675141,
+		'user_id' : "Martin",
+		'hotel_id' : 469,
+		'rating' : 1
+	},
+	{
+		'id' : 675142,
+		'user_id' : "Martin",
+		'hotel_id' : 471,
+		'rating' : 1
+	},
+	{
+		'id' : 675143,
+		'user_id' : "Martin",
+		'hotel_id' : 500,
+		'rating' : 1
+	},
+	{
+		'id' : 675144,
+		'user_id' : "Martin",
+		'hotel_id' : 505,
+		'rating' : -1
+	},
+	{
+		'id' : 675145,
+		'user_id' : "Martin",
+		'hotel_id' : 512,
+		'rating' : -1
+	},
+	{
+		'id' : 675146,
+		'user_id' : "Martin",
+		'hotel_id' : 514,
+		'rating' : 1
+	},
+	{
+		'id' : 675147,
+		'user_id' : "Martin",
+		'hotel_id' : 538,
+		'rating' : -1
+	},
+	{
+		'id' : 675148,
+		'user_id' : "Martin",
+		'hotel_id' : 540,
+		'rating' : -1
+	},
+	{
+		'id' : 675149,
+		'user_id' : "Martin",
+		'hotel_id' : 542,
+		'rating' : 1
+	},
+	{
+		'id' : 675150,
+		'user_id' : "Martin",
+		'hotel_id' : 548,
+		'rating' : 1
+	},
+	{
+		'id' : 675151,
+		'user_id' : "Martin",
+		'hotel_id' : 561,
+		'rating' : -1
+	},
+	{
+		'id' : 675152,
+		'user_id' : "Martin",
+		'hotel_id' : 565,
+		'rating' : 1
+	},
+	{
+		'id' : 675153,
+		'user_id' : "Martin",
+		'hotel_id' : 574,
+		'rating' : 1
+	},
+	{
+		'id' : 675154,
+		'user_id' : "Martin",
+		'hotel_id' : 576,
+		'rating' : 1
+	},
+	{
+		'id' : 675155,
+		'user_id' : "Martin",
+		'hotel_id' : 581,
+		'rating' : 1
+	},
+	{
+		'id' : 675156,
+		'user_id' : "Martin",
+		'hotel_id' : 592,
+		'rating' : -1
+	},
+	{
+		'id' : 675157,
+		'user_id' : "Martin",
+		'hotel_id' : 595,
+		'rating' : 1
+	},
+	{
+		'id' : 675158,
+		'user_id' : "Martin",
+		'hotel_id' : 605,
+		'rating' : 1
+	},
+	{
+		'id' : 675159,
+		'user_id' : "Martin",
+		'hotel_id' : 607,
+		'rating' : 1
+	},
+	{
+		'id' : 675160,
+		'user_id' : "Martin",
+		'hotel_id' : 612,
+		'rating' : -1
+	},
+	{
+		'id' : 675161,
+		'user_id' : "Martin",
+		'hotel_id' : 613,
+		'rating' : 1
+	},
+	{
+		'id' : 675162,
+		'user_id' : "Martin",
+		'hotel_id' : 619,
+		'rating' : 1
+	},
+	{
+		'id' : 675163,
+		'user_id' : "Martin",
+		'hotel_id' : 622,
+		'rating' : 1
+	},
+	{
+		'id' : 675164,
+		'user_id' : "Martin",
+		'hotel_id' : 623,
+		'rating' : 1
+	},
+	{
+		'id' : 675165,
+		'user_id' : "Martin",
+		'hotel_id' : 624,
+		'rating' : -1
+	},
+	{
+		'id' : 675166,
+		'user_id' : "Martin",
+		'hotel_id' : 634,
+		'rating' : -1
+	},
+	{
+		'id' : 675167,
+		'user_id' : "Martin",
+		'hotel_id' : 641,
+		'rating' : 1
+	},
+	{
+		'id' : 675168,
+		'user_id' : "Martin",
+		'hotel_id' : 651,
+		'rating' : -1
+	},
+	{
+		'id' : 675169,
+		'user_id' : "Martin",
+		'hotel_id' : 657,
+		'rating' : -1
+	},
+	{
+		'id' : 675170,
+		'user_id' : "Lee",
+		'hotel_id' : 9,
+		'rating' : -1
+	},
+	{
+		'id' : 675171,
+		'user_id' : "Lee",
+		'hotel_id' : 15,
+		'rating' : -1
+	},
+	{
+		'id' : 675172,
+		'user_id' : "Lee",
+		'hotel_id' : 16,
+		'rating' : 1
+	},
+	{
+		'id' : 675173,
+		'user_id' : "Lee",
+		'hotel_id' : 17,
+		'rating' : -1
+	},
+	{
+		'id' : 675174,
+		'user_id' : "Lee",
+		'hotel_id' : 19,
+		'rating' : 1
+	},
+	{
+		'id' : 675175,
+		'user_id' : "Lee",
+		'hotel_id' : 25,
+		'rating' : 1
+	},
+	{
+		'id' : 675176,
+		'user_id' : "Lee",
+		'hotel_id' : 26,
+		'rating' : 1
+	},
+	{
+		'id' : 675177,
+		'user_id' : "Lee",
+		'hotel_id' : 27,
+		'rating' : 1
+	},
+	{
+		'id' : 675178,
+		'user_id' : "Lee",
+		'hotel_id' : 29,
+		'rating' : 1
+	},
+	{
+		'id' : 675179,
+		'user_id' : "Lee",
+		'hotel_id' : 38,
+		'rating' : -1
+	},
+	{
+		'id' : 675180,
+		'user_id' : "Lee",
+		'hotel_id' : 42,
+		'rating' : 1
+	},
+	{
+		'id' : 675181,
+		'user_id' : "Lee",
+		'hotel_id' : 47,
+		'rating' : 1
+	},
+	{
+		'id' : 675182,
+		'user_id' : "Lee",
+		'hotel_id' : 49,
+		'rating' : 1
+	},
+	{
+		'id' : 675183,
+		'user_id' : "Lee",
+		'hotel_id' : 53,
+		'rating' : 1
+	},
+	{
+		'id' : 675184,
+		'user_id' : "Lee",
+		'hotel_id' : 65,
+		'rating' : 1
+	},
+	{
+		'id' : 675185,
+		'user_id' : "Lee",
+		'hotel_id' : 72,
+		'rating' : 1
+	},
+	{
+		'id' : 675186,
+		'user_id' : "Lee",
+		'hotel_id' : 73,
+		'rating' : -1
+	},
+	{
+		'id' : 675187,
+		'user_id' : "Lee",
+		'hotel_id' : 75,
+		'rating' : 1
+	},
+	{
+		'id' : 675188,
+		'user_id' : "Lee",
+		'hotel_id' : 94,
+		'rating' : 1
+	},
+	{
+		'id' : 675189,
+		'user_id' : "Lee",
+		'hotel_id' : 96,
+		'rating' : -1
+	},
+	{
+		'id' : 675190,
+		'user_id' : "Lee",
+		'hotel_id' : 98,
+		'rating' : 1
+	},
+	{
+		'id' : 675191,
+		'user_id' : "Lee",
+		'hotel_id' : 102,
+		'rating' : 1
+	},
+	{
+		'id' : 675192,
+		'user_id' : "Lee",
+		'hotel_id' : 109,
+		'rating' : 1
+	},
+	{
+		'id' : 675193,
+		'user_id' : "Lee",
+		'hotel_id' : 113,
+		'rating' : 1
+	},
+	{
+		'id' : 675194,
+		'user_id' : "Lee",
+		'hotel_id' : 122,
+		'rating' : 1
+	},
+	{
+		'id' : 675195,
+		'user_id' : "Lee",
+		'hotel_id' : 123,
+		'rating' : 1
+	},
+	{
+		'id' : 675196,
+		'user_id' : "Lee",
+		'hotel_id' : 134,
+		'rating' : 1
+	},
+	{
+		'id' : 675197,
+		'user_id' : "Lee",
+		'hotel_id' : 135,
+		'rating' : 1
+	},
+	{
+		'id' : 675198,
+		'user_id' : "Lee",
+		'hotel_id' : 142,
+		'rating' : -1
+	},
+	{
+		'id' : 675199,
+		'user_id' : "Lee",
+		'hotel_id' : 143,
+		'rating' : -1
+	},
+	{
+		'id' : 675200,
+		'user_id' : "Lee",
+		'hotel_id' : 150,
+		'rating' : 1
+	},
+	{
+		'id' : 675201,
+		'user_id' : "Lee",
+		'hotel_id' : 152,
+		'rating' : 1
+	},
+	{
+		'id' : 675202,
+		'user_id' : "Lee",
+		'hotel_id' : 158,
+		'rating' : 1
+	},
+	{
+		'id' : 675203,
+		'user_id' : "Lee",
+		'hotel_id' : 162,
+		'rating' : -1
+	},
+	{
+		'id' : 675204,
+		'user_id' : "Lee",
+		'hotel_id' : 168,
+		'rating' : 1
+	},
+	{
+		'id' : 675205,
+		'user_id' : "Lee",
+		'hotel_id' : 175,
+		'rating' : 1
+	},
+	{
+		'id' : 675206,
+		'user_id' : "Lee",
+		'hotel_id' : 177,
+		'rating' : 1
+	},
+	{
+		'id' : 675207,
+		'user_id' : "Lee",
+		'hotel_id' : 179,
+		'rating' : -1
+	},
+	{
+		'id' : 675208,
+		'user_id' : "Lee",
+		'hotel_id' : 180,
+		'rating' : -1
+	},
+	{
+		'id' : 675209,
+		'user_id' : "Lee",
+		'hotel_id' : 183,
+		'rating' : 1
+	},
+	{
+		'id' : 675210,
+		'user_id' : "Lee",
+		'hotel_id' : 184,
+		'rating' : -1
+	},
+	{
+		'id' : 675211,
+		'user_id' : "Lee",
+		'hotel_id' : 188,
+		'rating' : 1
+	},
+	{
+		'id' : 675212,
+		'user_id' : "Lee",
+		'hotel_id' : 197,
+		'rating' : 1
+	},
+	{
+		'id' : 675213,
+		'user_id' : "Lee",
+		'hotel_id' : 199,
+		'rating' : -1
+	},
+	{
+		'id' : 675214,
+		'user_id' : "Lee",
+		'hotel_id' : 201,
+		'rating' : 1
+	},
+	{
+		'id' : 675215,
+		'user_id' : "Lee",
+		'hotel_id' : 202,
+		'rating' : 1
+	},
+	{
+		'id' : 675216,
+		'user_id' : "Lee",
+		'hotel_id' : 215,
+		'rating' : 1
+	},
+	{
+		'id' : 675217,
+		'user_id' : "Lee",
+		'hotel_id' : 217,
+		'rating' : 1
+	},
+	{
+		'id' : 675218,
+		'user_id' : "Lee",
+		'hotel_id' : 218,
+		'rating' : 1
+	},
+	{
+		'id' : 675219,
+		'user_id' : "Lee",
+		'hotel_id' : 228,
+		'rating' : 1
+	},
+	{
+		'id' : 675220,
+		'user_id' : "Lee",
+		'hotel_id' : 233,
+		'rating' : 1
+	},
+	{
+		'id' : 675221,
+		'user_id' : "Lee",
+		'hotel_id' : 240,
+		'rating' : 1
+	},
+	{
+		'id' : 675222,
+		'user_id' : "Lee",
+		'hotel_id' : 241,
+		'rating' : 1
+	},
+	{
+		'id' : 675223,
+		'user_id' : "Lee",
+		'hotel_id' : 242,
+		'rating' : -1
+	},
+	{
+		'id' : 675224,
+		'user_id' : "Lee",
+		'hotel_id' : 244,
+		'rating' : 1
+	},
+	{
+		'id' : 675225,
+		'user_id' : "Lee",
+		'hotel_id' : 253,
+		'rating' : 1
+	},
+	{
+		'id' : 675226,
+		'user_id' : "Lee",
+		'hotel_id' : 256,
+		'rating' : 1
+	},
+	{
+		'id' : 675227,
+		'user_id' : "Lee",
+		'hotel_id' : 257,
+		'rating' : -1
+	},
+	{
+		'id' : 675228,
+		'user_id' : "Lee",
+		'hotel_id' : 262,
+		'rating' : -1
+	},
+	{
+		'id' : 675229,
+		'user_id' : "Lee",
+		'hotel_id' : 266,
+		'rating' : -1
+	},
+	{
+		'id' : 675230,
+		'user_id' : "Lee",
+		'hotel_id' : 273,
+		'rating' : 1
+	},
+	{
+		'id' : 675231,
+		'user_id' : "Lee",
+		'hotel_id' : 275,
+		'rating' : 1
+	},
+	{
+		'id' : 675232,
+		'user_id' : "Lee",
+		'hotel_id' : 280,
+		'rating' : 1
+	},
+	{
+		'id' : 675233,
+		'user_id' : "Lee",
+		'hotel_id' : 285,
+		'rating' : 1
+	},
+	{
+		'id' : 675234,
+		'user_id' : "Lee",
+		'hotel_id' : 288,
+		'rating' : -1
+	},
+	{
+		'id' : 675235,
+		'user_id' : "Lee",
+		'hotel_id' : 290,
+		'rating' : 1
+	},
+	{
+		'id' : 675236,
+		'user_id' : "Lee",
+		'hotel_id' : 294,
+		'rating' : -1
+	},
+	{
+		'id' : 675237,
+		'user_id' : "Lee",
+		'hotel_id' : 298,
+		'rating' : -1
+	},
+	{
+		'id' : 675238,
+		'user_id' : "Lee",
+		'hotel_id' : 299,
+		'rating' : 1
+	},
+	{
+		'id' : 675239,
+		'user_id' : "Lee",
+		'hotel_id' : 301,
+		'rating' : 1
+	},
+	{
+		'id' : 675240,
+		'user_id' : "Lee",
+		'hotel_id' : 302,
+		'rating' : -1
+	},
+	{
+		'id' : 675241,
+		'user_id' : "Lee",
+		'hotel_id' : 306,
+		'rating' : 1
+	},
+	{
+		'id' : 675242,
+		'user_id' : "Lee",
+		'hotel_id' : 316,
+		'rating' : 1
+	},
+	{
+		'id' : 675243,
+		'user_id' : "Lee",
+		'hotel_id' : 323,
+		'rating' : -1
+	},
+	{
+		'id' : 675244,
+		'user_id' : "Lee",
+		'hotel_id' : 324,
+		'rating' : 1
+	},
+	{
+		'id' : 675245,
+		'user_id' : "Lee",
+		'hotel_id' : 325,
+		'rating' : 1
+	},
+	{
+		'id' : 675246,
+		'user_id' : "Lee",
+		'hotel_id' : 326,
+		'rating' : -1
+	},
+	{
+		'id' : 675247,
+		'user_id' : "Lee",
+		'hotel_id' : 328,
+		'rating' : 1
+	},
+	{
+		'id' : 675248,
+		'user_id' : "Lee",
+		'hotel_id' : 334,
+		'rating' : -1
+	},
+	{
+		'id' : 675249,
+		'user_id' : "Lee",
+		'hotel_id' : 340,
+		'rating' : -1
+	},
+	{
+		'id' : 675250,
+		'user_id' : "Lee",
+		'hotel_id' : 343,
+		'rating' : 1
+	},
+	{
+		'id' : 675251,
+		'user_id' : "Lee",
+		'hotel_id' : 344,
+		'rating' : 1
+	},
+	{
+		'id' : 675252,
+		'user_id' : "Lee",
+		'hotel_id' : 346,
+		'rating' : 1
+	},
+	{
+		'id' : 675253,
+		'user_id' : "Lee",
+		'hotel_id' : 347,
+		'rating' : 1
+	},
+	{
+		'id' : 675254,
+		'user_id' : "Lee",
+		'hotel_id' : 349,
+		'rating' : -1
+	},
+	{
+		'id' : 675255,
+		'user_id' : "Lee",
+		'hotel_id' : 352,
+		'rating' : 1
+	},
+	{
+		'id' : 675256,
+		'user_id' : "Lee",
+		'hotel_id' : 359,
+		'rating' : 1
+	},
+	{
+		'id' : 675257,
+		'user_id' : "Lee",
+		'hotel_id' : 363,
+		'rating' : 1
+	},
+	{
+		'id' : 675258,
+		'user_id' : "Lee",
+		'hotel_id' : 365,
+		'rating' : 1
+	},
+	{
+		'id' : 675259,
+		'user_id' : "Lee",
+		'hotel_id' : 366,
+		'rating' : -1
+	},
+	{
+		'id' : 675260,
+		'user_id' : "Lee",
+		'hotel_id' : 370,
+		'rating' : -1
+	},
+	{
+		'id' : 675261,
+		'user_id' : "Lee",
+		'hotel_id' : 373,
+		'rating' : -1
+	},
+	{
+		'id' : 675262,
+		'user_id' : "Lee",
+		'hotel_id' : 388,
+		'rating' : 1
+	},
+	{
+		'id' : 675263,
+		'user_id' : "Lee",
+		'hotel_id' : 389,
+		'rating' : -1
+	},
+	{
+		'id' : 675264,
+		'user_id' : "Lee",
+		'hotel_id' : 400,
+		'rating' : 1
+	},
+	{
+		'id' : 675265,
+		'user_id' : "Lee",
+		'hotel_id' : 402,
+		'rating' : -1
+	},
+	{
+		'id' : 675266,
+		'user_id' : "Lee",
+		'hotel_id' : 430,
+		'rating' : -1
+	},
+	{
+		'id' : 675267,
+		'user_id' : "Lee",
+		'hotel_id' : 433,
+		'rating' : -1
+	},
+	{
+		'id' : 675268,
+		'user_id' : "Lee",
+		'hotel_id' : 441,
+		'rating' : -1
+	},
+	{
+		'id' : 675269,
+		'user_id' : "Lee",
+		'hotel_id' : 445,
+		'rating' : -1
+	},
+	{
+		'id' : 675270,
+		'user_id' : "Lee",
+		'hotel_id' : 448,
+		'rating' : 1
+	},
+	{
+		'id' : 675271,
+		'user_id' : "Lee",
+		'hotel_id' : 460,
+		'rating' : 1
+	},
+	{
+		'id' : 675272,
+		'user_id' : "Lee",
+		'hotel_id' : 468,
+		'rating' : 1
+	},
+	{
+		'id' : 675273,
+		'user_id' : "Lee",
+		'hotel_id' : 471,
+		'rating' : 1
+	},
+	{
+		'id' : 675274,
+		'user_id' : "Lee",
+		'hotel_id' : 478,
+		'rating' : 1
+	},
+	{
+		'id' : 675275,
+		'user_id' : "Lee",
+		'hotel_id' : 482,
+		'rating' : -1
+	},
+	{
+		'id' : 675276,
+		'user_id' : "Lee",
+		'hotel_id' : 500,
+		'rating' : 1
+	},
+	{
+		'id' : 675277,
+		'user_id' : "Lee",
+		'hotel_id' : 505,
+		'rating' : 1
+	},
+	{
+		'id' : 675278,
+		'user_id' : "Lee",
+		'hotel_id' : 516,
+		'rating' : 1
+	},
+	{
+		'id' : 675279,
+		'user_id' : "Lee",
+		'hotel_id' : 518,
+		'rating' : 1
+	},
+	{
+		'id' : 675280,
+		'user_id' : "Lee",
+		'hotel_id' : 520,
+		'rating' : 1
+	},
+	{
+		'id' : 675281,
+		'user_id' : "Lee",
+		'hotel_id' : 526,
+		'rating' : 1
+	},
+	{
+		'id' : 675282,
+		'user_id' : "Lee",
+		'hotel_id' : 548,
+		'rating' : 1
+	},
+	{
+		'id' : 675283,
+		'user_id' : "Lee",
+		'hotel_id' : 556,
+		'rating' : -1
+	},
+	{
+		'id' : 675284,
+		'user_id' : "Lee",
+		'hotel_id' : 558,
+		'rating' : 1
+	},
+	{
+		'id' : 675285,
+		'user_id' : "Lee",
+		'hotel_id' : 560,
+		'rating' : -1
+	},
+	{
+		'id' : 675286,
+		'user_id' : "Lee",
+		'hotel_id' : 565,
+		'rating' : 1
+	},
+	{
+		'id' : 675287,
+		'user_id' : "Lee",
+		'hotel_id' : 568,
+		'rating' : 1
+	},
+	{
+		'id' : 675288,
+		'user_id' : "Lee",
+		'hotel_id' : 573,
+		'rating' : 1
+	},
+	{
+		'id' : 675289,
+		'user_id' : "Lee",
+		'hotel_id' : 574,
+		'rating' : 1
+	},
+	{
+		'id' : 675290,
+		'user_id' : "Lee",
+		'hotel_id' : 575,
+		'rating' : 1
+	},
+	{
+		'id' : 675291,
+		'user_id' : "Lee",
+		'hotel_id' : 576,
+		'rating' : 1
+	},
+	{
+		'id' : 675292,
+		'user_id' : "Lee",
+		'hotel_id' : 586,
+		'rating' : -1
+	},
+	{
+		'id' : 675293,
+		'user_id' : "Lee",
+		'hotel_id' : 591,
+		'rating' : 1
+	},
+	{
+		'id' : 675294,
+		'user_id' : "Lee",
+		'hotel_id' : 592,
+		'rating' : -1
+	},
+	{
+		'id' : 675295,
+		'user_id' : "Lee",
+		'hotel_id' : 593,
+		'rating' : 1
+	},
+	{
+		'id' : 675296,
+		'user_id' : "Lee",
+		'hotel_id' : 608,
+		'rating' : -1
+	},
+	{
+		'id' : 675297,
+		'user_id' : "Lee",
+		'hotel_id' : 609,
+		'rating' : 1
+	},
+	{
+		'id' : 675298,
+		'user_id' : "Lee",
+		'hotel_id' : 613,
+		'rating' : 1
+	},
+	{
+		'id' : 675299,
+		'user_id' : "Lee",
+		'hotel_id' : 626,
+		'rating' : 1
+	},
+	{
+		'id' : 675300,
+		'user_id' : "Lee",
+		'hotel_id' : 644,
+		'rating' : 1
+	},
+	{
+		'id' : 675301,
+		'user_id' : "Lee",
+		'hotel_id' : 650,
+		'rating' : -1
+	},
+	{
+		'id' : 675302,
+		'user_id' : "Lee",
+		'hotel_id' : 653,
+		'rating' : -1
+	},
+	{
+		'id' : 675303,
+		'user_id' : "Lee",
+		'hotel_id' : 657,
+		'rating' : -1
+	},
+	{
+		'id' : 675304,
+		'user_id' : "David",
+		'hotel_id' : 7,
+		'rating' : -1
+	},
+	{
+		'id' : 675305,
+		'user_id' : "David",
+		'hotel_id' : 9,
+		'rating' : -1
+	},
+	{
+		'id' : 675306,
+		'user_id' : "David",
+		'hotel_id' : 22,
+		'rating' : -1
+	},
+	{
+		'id' : 675307,
+		'user_id' : "David",
+		'hotel_id' : 27,
+		'rating' : 1
+	},
+	{
+		'id' : 675308,
+		'user_id' : "David",
+		'hotel_id' : 38,
+		'rating' : -1
+	},
+	{
+		'id' : 675309,
+		'user_id' : "David",
+		'hotel_id' : 45,
+		'rating' : 1
+	},
+	{
+		'id' : 675310,
+		'user_id' : "David",
+		'hotel_id' : 49,
+		'rating' : -1
+	},
+	{
+		'id' : 675311,
+		'user_id' : "David",
+		'hotel_id' : 53,
+		'rating' : 1
+	},
+	{
+		'id' : 675312,
+		'user_id' : "David",
+		'hotel_id' : 66,
+		'rating' : -1
+	},
+	{
+		'id' : 675313,
+		'user_id' : "David",
+		'hotel_id' : 68,
+		'rating' : -1
+	},
+	{
+		'id' : 675314,
+		'user_id' : "David",
+		'hotel_id' : 74,
+		'rating' : 1
+	},
+	{
+		'id' : 675315,
+		'user_id' : "David",
+		'hotel_id' : 75,
+		'rating' : 1
+	},
+	{
+		'id' : 675316,
+		'user_id' : "David",
+		'hotel_id' : 81,
+		'rating' : 1
+	},
+	{
+		'id' : 675317,
+		'user_id' : "David",
+		'hotel_id' : 87,
+		'rating' : -1
+	},
+	{
+		'id' : 675318,
+		'user_id' : "David",
+		'hotel_id' : 88,
+		'rating' : -1
+	},
+	{
+		'id' : 675319,
+		'user_id' : "David",
+		'hotel_id' : 93,
+		'rating' : 1
+	},
+	{
+		'id' : 675320,
+		'user_id' : "David",
+		'hotel_id' : 100,
+		'rating' : 1
+	},
+	{
+		'id' : 675321,
+		'user_id' : "David",
+		'hotel_id' : 113,
+		'rating' : 1
+	},
+	{
+		'id' : 675322,
+		'user_id' : "David",
+		'hotel_id' : 114,
+		'rating' : 1
+	},
+	{
+		'id' : 675323,
+		'user_id' : "David",
+		'hotel_id' : 122,
+		'rating' : 1
+	},
+	{
+		'id' : 675324,
+		'user_id' : "David",
+		'hotel_id' : 124,
+		'rating' : 1
+	},
+	{
+		'id' : 675325,
+		'user_id' : "David",
+		'hotel_id' : 125,
+		'rating' : -1
+	},
+	{
+		'id' : 675326,
+		'user_id' : "David",
+		'hotel_id' : 127,
+		'rating' : 1
+	},
+	{
+		'id' : 675327,
+		'user_id' : "David",
+		'hotel_id' : 133,
+		'rating' : 1
+	},
+	{
+		'id' : 675328,
+		'user_id' : "David",
+		'hotel_id' : 134,
+		'rating' : 1
+	},
+	{
+		'id' : 675329,
+		'user_id' : "David",
+		'hotel_id' : 140,
+		'rating' : -1
+	},
+	{
+		'id' : 675330,
+		'user_id' : "David",
+		'hotel_id' : 142,
+		'rating' : 1
+	},
+	{
+		'id' : 675331,
+		'user_id' : "David",
+		'hotel_id' : 148,
+		'rating' : -1
+	},
+	{
+		'id' : 675332,
+		'user_id' : "David",
+		'hotel_id' : 157,
+		'rating' : 1
+	},
+	{
+		'id' : 675333,
+		'user_id' : "David",
+		'hotel_id' : 164,
+		'rating' : -1
+	},
+	{
+		'id' : 675334,
+		'user_id' : "David",
+		'hotel_id' : 166,
+		'rating' : 1
+	},
+	{
+		'id' : 675335,
+		'user_id' : "David",
+		'hotel_id' : 169,
+		'rating' : 1
+	},
+	{
+		'id' : 675336,
+		'user_id' : "David",
+		'hotel_id' : 170,
+		'rating' : 1
+	},
+	{
+		'id' : 675337,
+		'user_id' : "David",
+		'hotel_id' : 183,
+		'rating' : 1
+	},
+	{
+		'id' : 675338,
+		'user_id' : "David",
+		'hotel_id' : 185,
+		'rating' : -1
+	},
+	{
+		'id' : 675339,
+		'user_id' : "David",
+		'hotel_id' : 188,
+		'rating' : -1
+	},
+	{
+		'id' : 675340,
+		'user_id' : "David",
+		'hotel_id' : 195,
+		'rating' : 1
+	},
+	{
+		'id' : 675341,
+		'user_id' : "David",
+		'hotel_id' : 196,
+		'rating' : -1
+	},
+	{
+		'id' : 675342,
+		'user_id' : "David",
+		'hotel_id' : 199,
+		'rating' : 1
+	},
+	{
+		'id' : 675343,
+		'user_id' : "David",
+		'hotel_id' : 201,
+		'rating' : -1
+	},
+	{
+		'id' : 675344,
+		'user_id' : "David",
+		'hotel_id' : 202,
+		'rating' : 1
+	},
+	{
+		'id' : 675345,
+		'user_id' : "David",
+		'hotel_id' : 206,
+		'rating' : 1
+	},
+	{
+		'id' : 675346,
+		'user_id' : "David",
+		'hotel_id' : 215,
+		'rating' : 1
+	},
+	{
+		'id' : 675347,
+		'user_id' : "David",
+		'hotel_id' : 217,
+		'rating' : -1
+	},
+	{
+		'id' : 675348,
+		'user_id' : "David",
+		'hotel_id' : 220,
+		'rating' : -1
+	},
+	{
+		'id' : 675349,
+		'user_id' : "David",
+		'hotel_id' : 224,
+		'rating' : 1
+	},
+	{
+		'id' : 675350,
+		'user_id' : "David",
+		'hotel_id' : 225,
+		'rating' : 1
+	},
+	{
+		'id' : 675351,
+		'user_id' : "David",
+		'hotel_id' : 227,
+		'rating' : 1
+	},
+	{
+		'id' : 675352,
+		'user_id' : "David",
+		'hotel_id' : 234,
+		'rating' : -1
+	},
+	{
+		'id' : 675353,
+		'user_id' : "David",
+		'hotel_id' : 238,
+		'rating' : 1
+	},
+	{
+		'id' : 675354,
+		'user_id' : "David",
+		'hotel_id' : 239,
+		'rating' : 1
+	},
+	{
+		'id' : 675355,
+		'user_id' : "David",
+		'hotel_id' : 242,
+		'rating' : -1
+	},
+	{
+		'id' : 675356,
+		'user_id' : "David",
+		'hotel_id' : 244,
+		'rating' : -1
+	},
+	{
+		'id' : 675357,
+		'user_id' : "David",
+		'hotel_id' : 249,
+		'rating' : 1
+	},
+	{
+		'id' : 675358,
+		'user_id' : "David",
+		'hotel_id' : 251,
+		'rating' : -1
+	},
+	{
+		'id' : 675359,
+		'user_id' : "David",
+		'hotel_id' : 257,
+		'rating' : -1
+	},
+	{
+		'id' : 675360,
+		'user_id' : "David",
+		'hotel_id' : 266,
+		'rating' : 1
+	},
+	{
+		'id' : 675361,
+		'user_id' : "David",
+		'hotel_id' : 268,
+		'rating' : -1
+	},
+	{
+		'id' : 675362,
+		'user_id' : "David",
+		'hotel_id' : 269,
+		'rating' : 1
+	},
+	{
+		'id' : 675363,
+		'user_id' : "David",
+		'hotel_id' : 272,
+		'rating' : 1
+	},
+	{
+		'id' : 675364,
+		'user_id' : "David",
+		'hotel_id' : 274,
+		'rating' : 1
+	},
+	{
+		'id' : 675365,
+		'user_id' : "David",
+		'hotel_id' : 275,
+		'rating' : 1
+	},
+	{
+		'id' : 675366,
+		'user_id' : "David",
+		'hotel_id' : 279,
+		'rating' : 1
+	},
+	{
+		'id' : 675367,
+		'user_id' : "David",
+		'hotel_id' : 280,
+		'rating' : -1
+	},
+	{
+		'id' : 675368,
+		'user_id' : "David",
+		'hotel_id' : 281,
+		'rating' : 1
+	},
+	{
+		'id' : 675369,
+		'user_id' : "David",
+		'hotel_id' : 282,
+		'rating' : 1
+	},
+	{
+		'id' : 675370,
+		'user_id' : "David",
+		'hotel_id' : 288,
+		'rating' : 1
+	},
+	{
+		'id' : 675371,
+		'user_id' : "David",
+		'hotel_id' : 290,
+		'rating' : 1
+	},
+	{
+		'id' : 675372,
+		'user_id' : "David",
+		'hotel_id' : 294,
+		'rating' : 1
+	},
+	{
+		'id' : 675373,
+		'user_id' : "David",
+		'hotel_id' : 295,
+		'rating' : 1
+	},
+	{
+		'id' : 675374,
+		'user_id' : "David",
+		'hotel_id' : 296,
+		'rating' : -1
+	},
+	{
+		'id' : 675375,
+		'user_id' : "David",
+		'hotel_id' : 301,
+		'rating' : -1
+	},
+	{
+		'id' : 675376,
+		'user_id' : "David",
+		'hotel_id' : 308,
+		'rating' : -1
+	},
+	{
+		'id' : 675377,
+		'user_id' : "David",
+		'hotel_id' : 310,
+		'rating' : 1
+	},
+	{
+		'id' : 675378,
+		'user_id' : "David",
+		'hotel_id' : 313,
+		'rating' : 1
+	},
+	{
+		'id' : 675379,
+		'user_id' : "David",
+		'hotel_id' : 314,
+		'rating' : -1
+	},
+	{
+		'id' : 675380,
+		'user_id' : "David",
+		'hotel_id' : 315,
+		'rating' : -1
+	},
+	{
+		'id' : 675381,
+		'user_id' : "David",
+		'hotel_id' : 322,
+		'rating' : 1
+	},
+	{
+		'id' : 675382,
+		'user_id' : "David",
+		'hotel_id' : 326,
+		'rating' : 1
+	},
+	{
+		'id' : 675383,
+		'user_id' : "David",
+		'hotel_id' : 332,
+		'rating' : 1
+	},
+	{
+		'id' : 675384,
+		'user_id' : "David",
+		'hotel_id' : 334,
+		'rating' : 1
+	},
+	{
+		'id' : 675385,
+		'user_id' : "David",
+		'hotel_id' : 337,
+		'rating' : -1
+	},
+	{
+		'id' : 675386,
+		'user_id' : "David",
+		'hotel_id' : 338,
+		'rating' : -1
+	},
+	{
+		'id' : 675387,
+		'user_id' : "David",
+		'hotel_id' : 347,
+		'rating' : -1
+	},
+	{
+		'id' : 675388,
+		'user_id' : "David",
+		'hotel_id' : 351,
+		'rating' : 1
+	},
+	{
+		'id' : 675389,
+		'user_id' : "David",
+		'hotel_id' : 356,
+		'rating' : 1
+	},
+	{
+		'id' : 675390,
+		'user_id' : "David",
+		'hotel_id' : 364,
+		'rating' : 1
+	},
+	{
+		'id' : 675391,
+		'user_id' : "David",
+		'hotel_id' : 367,
+		'rating' : 1
+	},
+	{
+		'id' : 675392,
+		'user_id' : "David",
+		'hotel_id' : 369,
+		'rating' : -1
+	},
+	{
+		'id' : 675393,
+		'user_id' : "David",
+		'hotel_id' : 370,
+		'rating' : 1
+	},
+	{
+		'id' : 675394,
+		'user_id' : "David",
+		'hotel_id' : 374,
+		'rating' : 1
+	},
+	{
+		'id' : 675395,
+		'user_id' : "David",
+		'hotel_id' : 375,
+		'rating' : -1
+	},
+	{
+		'id' : 675396,
+		'user_id' : "David",
+		'hotel_id' : 381,
+		'rating' : 1
+	},
+	{
+		'id' : 675397,
+		'user_id' : "David",
+		'hotel_id' : 385,
+		'rating' : -1
+	},
+	{
+		'id' : 675398,
+		'user_id' : "David",
+		'hotel_id' : 393,
+		'rating' : 1
+	},
+	{
+		'id' : 675399,
+		'user_id' : "David",
+		'hotel_id' : 400,
+		'rating' : 1
+	},
+	{
+		'id' : 675400,
+		'user_id' : "David",
+		'hotel_id' : 401,
+		'rating' : 1
+	},
+	{
+		'id' : 675401,
+		'user_id' : "David",
+		'hotel_id' : 406,
+		'rating' : -1
+	},
+	{
+		'id' : 675402,
+		'user_id' : "David",
+		'hotel_id' : 414,
+		'rating' : 1
+	},
+	{
+		'id' : 675403,
+		'user_id' : "David",
+		'hotel_id' : 415,
+		'rating' : 1
+	},
+	{
+		'id' : 675404,
+		'user_id' : "David",
+		'hotel_id' : 420,
+		'rating' : -1
+	},
+	{
+		'id' : 675405,
+		'user_id' : "David",
+		'hotel_id' : 421,
+		'rating' : 1
+	},
+	{
+		'id' : 675406,
+		'user_id' : "David",
+		'hotel_id' : 426,
+		'rating' : 1
+	},
+	{
+		'id' : 675407,
+		'user_id' : "David",
+		'hotel_id' : 428,
+		'rating' : -1
+	},
+	{
+		'id' : 675408,
+		'user_id' : "David",
+		'hotel_id' : 433,
+		'rating' : 1
+	},
+	{
+		'id' : 675409,
+		'user_id' : "David",
+		'hotel_id' : 443,
+		'rating' : 1
+	},
+	{
+		'id' : 675410,
+		'user_id' : "David",
+		'hotel_id' : 448,
+		'rating' : -1
+	},
+	{
+		'id' : 675411,
+		'user_id' : "David",
+		'hotel_id' : 449,
+		'rating' : -1
+	},
+	{
+		'id' : 675412,
+		'user_id' : "David",
+		'hotel_id' : 450,
+		'rating' : -1
+	},
+	{
+		'id' : 675413,
+		'user_id' : "David",
+		'hotel_id' : 457,
+		'rating' : 1
+	},
+	{
+		'id' : 675414,
+		'user_id' : "David",
+		'hotel_id' : 486,
+		'rating' : -1
+	},
+	{
+		'id' : 675415,
+		'user_id' : "David",
+		'hotel_id' : 491,
+		'rating' : -1
+	},
+	{
+		'id' : 675416,
+		'user_id' : "David",
+		'hotel_id' : 499,
+		'rating' : 1
+	},
+	{
+		'id' : 675417,
+		'user_id' : "David",
+		'hotel_id' : 500,
+		'rating' : 1
+	},
+	{
+		'id' : 675418,
+		'user_id' : "David",
+		'hotel_id' : 505,
+		'rating' : 1
+	},
+	{
+		'id' : 675419,
+		'user_id' : "David",
+		'hotel_id' : 516,
+		'rating' : 1
+	},
+	{
+		'id' : 675420,
+		'user_id' : "David",
+		'hotel_id' : 517,
+		'rating' : -1
+	},
+	{
+		'id' : 675421,
+		'user_id' : "David",
+		'hotel_id' : 518,
+		'rating' : 1
+	},
+	{
+		'id' : 675422,
+		'user_id' : "David",
+		'hotel_id' : 522,
+		'rating' : 1
+	},
+	{
+		'id' : 675423,
+		'user_id' : "David",
+		'hotel_id' : 548,
+		'rating' : -1
+	},
+	{
+		'id' : 675424,
+		'user_id' : "David",
+		'hotel_id' : 552,
+		'rating' : -1
+	},
+	{
+		'id' : 675425,
+		'user_id' : "David",
+		'hotel_id' : 555,
+		'rating' : 1
+	},
+	{
+		'id' : 675426,
+		'user_id' : "David",
+		'hotel_id' : 557,
+		'rating' : 1
+	},
+	{
+		'id' : 675427,
+		'user_id' : "David",
+		'hotel_id' : 562,
+		'rating' : 1
+	},
+	{
+		'id' : 675428,
+		'user_id' : "David",
+		'hotel_id' : 568,
+		'rating' : 1
+	},
+	{
+		'id' : 675429,
+		'user_id' : "David",
+		'hotel_id' : 576,
+		'rating' : 1
+	},
+	{
+		'id' : 675430,
+		'user_id' : "David",
+		'hotel_id' : 586,
+		'rating' : 1
+	},
+	{
+		'id' : 675431,
+		'user_id' : "David",
+		'hotel_id' : 589,
+		'rating' : -1
+	},
+	{
+		'id' : 675432,
+		'user_id' : "David",
+		'hotel_id' : 593,
+		'rating' : 1
+	},
+	{
+		'id' : 675433,
+		'user_id' : "David",
+		'hotel_id' : 595,
+		'rating' : 1
+	},
+	{
+		'id' : 675434,
+		'user_id' : "David",
+		'hotel_id' : 607,
+		'rating' : 1
+	},
+	{
+		'id' : 675435,
+		'user_id' : "David",
+		'hotel_id' : 608,
+		'rating' : -1
+	},
+	{
+		'id' : 675436,
+		'user_id' : "David",
+		'hotel_id' : 610,
+		'rating' : 1
+	},
+	{
+		'id' : 675437,
+		'user_id' : "David",
+		'hotel_id' : 613,
+		'rating' : 1
+	},
+	{
+		'id' : 675438,
+		'user_id' : "David",
+		'hotel_id' : 614,
+		'rating' : 1
+	},
+	{
+		'id' : 675439,
+		'user_id' : "David",
+		'hotel_id' : 621,
+		'rating' : -1
+	},
+	{
+		'id' : 675440,
+		'user_id' : "David",
+		'hotel_id' : 628,
+		'rating' : 1
+	},
+	{
+		'id' : 675441,
+		'user_id' : "David",
+		'hotel_id' : 630,
+		'rating' : -1
+	},
+	{
+		'id' : 675442,
+		'user_id' : "David",
+		'hotel_id' : 634,
+		'rating' : 1
+	},
+	{
+		'id' : 675443,
+		'user_id' : "David",
+		'hotel_id' : 647,
+		'rating' : -1
+	},
+	{
+		'id' : 675444,
+		'user_id' : "David",
+		'hotel_id' : 650,
+		'rating' : -1
+	},
+	{
+		'id' : 675445,
+		'user_id' : "David",
+		'hotel_id' : 653,
+		'rating' : -1
+	},
+	{
+		'id' : 675446,
+		'user_id' : "Hj",
+		'hotel_id' : 16,
+		'rating' : 1
+	},
+	{
+		'id' : 675447,
+		'user_id' : "Hj",
+		'hotel_id' : 18,
+		'rating' : 1
+	},
+	{
+		'id' : 675448,
+		'user_id' : "Hj",
+		'hotel_id' : 21,
+		'rating' : -1
+	},
+	{
+		'id' : 675449,
+		'user_id' : "Hj",
+		'hotel_id' : 22,
+		'rating' : 1
+	},
+	{
+		'id' : 675450,
+		'user_id' : "Hj",
+		'hotel_id' : 25,
+		'rating' : 1
+	},
+	{
+		'id' : 675451,
+		'user_id' : "Hj",
+		'hotel_id' : 29,
+		'rating' : 1
+	},
+	{
+		'id' : 675452,
+		'user_id' : "Hj",
+		'hotel_id' : 38,
+		'rating' : 1
+	},
+	{
+		'id' : 675453,
+		'user_id' : "Hj",
+		'hotel_id' : 42,
+		'rating' : 1
+	},
+	{
+		'id' : 675454,
+		'user_id' : "Hj",
+		'hotel_id' : 45,
+		'rating' : 1
+	},
+	{
+		'id' : 675455,
+		'user_id' : "Hj",
+		'hotel_id' : 47,
+		'rating' : 1
+	},
+	{
+		'id' : 675456,
+		'user_id' : "Hj",
+		'hotel_id' : 55,
+		'rating' : -1
+	},
+	{
+		'id' : 675457,
+		'user_id' : "Hj",
+		'hotel_id' : 61,
+		'rating' : 1
+	},
+	{
+		'id' : 675458,
+		'user_id' : "Hj",
+		'hotel_id' : 63,
+		'rating' : 1
+	},
+	{
+		'id' : 675459,
+		'user_id' : "Hj",
+		'hotel_id' : 69,
+		'rating' : 1
+	},
+	{
+		'id' : 675460,
+		'user_id' : "Hj",
+		'hotel_id' : 73,
+		'rating' : -1
+	},
+	{
+		'id' : 675461,
+		'user_id' : "Hj",
+		'hotel_id' : 74,
+		'rating' : -1
+	},
+	{
+		'id' : 675462,
+		'user_id' : "Hj",
+		'hotel_id' : 85,
+		'rating' : 1
+	},
+	{
+		'id' : 675463,
+		'user_id' : "Hj",
+		'hotel_id' : 93,
+		'rating' : 1
+	},
+	{
+		'id' : 675464,
+		'user_id' : "Hj",
+		'hotel_id' : 96,
+		'rating' : -1
+	},
+	{
+		'id' : 675465,
+		'user_id' : "Hj",
+		'hotel_id' : 97,
+		'rating' : -1
+	},
+	{
+		'id' : 675466,
+		'user_id' : "Hj",
+		'hotel_id' : 98,
+		'rating' : 1
+	},
+	{
+		'id' : 675467,
+		'user_id' : "Hj",
+		'hotel_id' : 99,
+		'rating' : 1
+	},
+	{
+		'id' : 675468,
+		'user_id' : "Hj",
+		'hotel_id' : 103,
+		'rating' : 1
+	},
+	{
+		'id' : 675469,
+		'user_id' : "Hj",
+		'hotel_id' : 110,
+		'rating' : -1
+	},
+	{
+		'id' : 675470,
+		'user_id' : "Hj",
+		'hotel_id' : 113,
+		'rating' : 1
+	},
+	{
+		'id' : 675471,
+		'user_id' : "Hj",
+		'hotel_id' : 114,
+		'rating' : -1
+	},
+	{
+		'id' : 675472,
+		'user_id' : "Hj",
+		'hotel_id' : 118,
+		'rating' : 1
+	},
+	{
+		'id' : 675473,
+		'user_id' : "Hj",
+		'hotel_id' : 119,
+		'rating' : 1
+	},
+	{
+		'id' : 675474,
+		'user_id' : "Hj",
+		'hotel_id' : 135,
+		'rating' : 1
+	},
+	{
+		'id' : 675475,
+		'user_id' : "Hj",
+		'hotel_id' : 136,
+		'rating' : 1
+	},
+	{
+		'id' : 675476,
+		'user_id' : "Hj",
+		'hotel_id' : 137,
+		'rating' : -1
+	},
+	{
+		'id' : 675477,
+		'user_id' : "Hj",
+		'hotel_id' : 138,
+		'rating' : -1
+	},
+	{
+		'id' : 675478,
+		'user_id' : "Hj",
+		'hotel_id' : 143,
+		'rating' : -1
+	},
+	{
+		'id' : 675479,
+		'user_id' : "Hj",
+		'hotel_id' : 146,
+		'rating' : 1
+	},
+	{
+		'id' : 675480,
+		'user_id' : "Hj",
+		'hotel_id' : 151,
+		'rating' : 1
+	},
+	{
+		'id' : 675481,
+		'user_id' : "Hj",
+		'hotel_id' : 152,
+		'rating' : 1
+	},
+	{
+		'id' : 675482,
+		'user_id' : "Hj",
+		'hotel_id' : 154,
+		'rating' : 1
+	},
+	{
+		'id' : 675483,
+		'user_id' : "Hj",
+		'hotel_id' : 155,
+		'rating' : -1
+	},
+	{
+		'id' : 675484,
+		'user_id' : "Hj",
+		'hotel_id' : 157,
+		'rating' : 1
+	},
+	{
+		'id' : 675485,
+		'user_id' : "Hj",
+		'hotel_id' : 158,
+		'rating' : 1
+	},
+	{
+		'id' : 675486,
+		'user_id' : "Hj",
+		'hotel_id' : 161,
+		'rating' : 1
+	},
+	{
+		'id' : 675487,
+		'user_id' : "Hj",
+		'hotel_id' : 164,
+		'rating' : 1
+	},
+	{
+		'id' : 675488,
+		'user_id' : "Hj",
+		'hotel_id' : 169,
+		'rating' : 1
+	},
+	{
+		'id' : 675489,
+		'user_id' : "Hj",
+		'hotel_id' : 175,
+		'rating' : 1
+	},
+	{
+		'id' : 675490,
+		'user_id' : "Hj",
+		'hotel_id' : 179,
+		'rating' : 1
+	},
+	{
+		'id' : 675491,
+		'user_id' : "Hj",
+		'hotel_id' : 181,
+		'rating' : 1
+	},
+	{
+		'id' : 675492,
+		'user_id' : "Hj",
+		'hotel_id' : 191,
+		'rating' : 1
+	},
+	{
+		'id' : 675493,
+		'user_id' : "Hj",
+		'hotel_id' : 197,
+		'rating' : -1
+	},
+	{
+		'id' : 675494,
+		'user_id' : "Hj",
+		'hotel_id' : 198,
+		'rating' : 1
+	},
+	{
+		'id' : 675495,
+		'user_id' : "Hj",
+		'hotel_id' : 202,
+		'rating' : -1
+	},
+	{
+		'id' : 675496,
+		'user_id' : "Hj",
+		'hotel_id' : 205,
+		'rating' : 1
+	},
+	{
+		'id' : 675497,
+		'user_id' : "Hj",
+		'hotel_id' : 215,
+		'rating' : 1
+	},
+	{
+		'id' : 675498,
+		'user_id' : "Hj",
+		'hotel_id' : 219,
+		'rating' : 1
+	},
+	{
+		'id' : 675499,
+		'user_id' : "Hj",
+		'hotel_id' : 224,
+		'rating' : 1
+	},
+	{
+		'id' : 675500,
+		'user_id' : "Hj",
+		'hotel_id' : 228,
+		'rating' : 1
+	},
+	{
+		'id' : 675501,
+		'user_id' : "Hj",
+		'hotel_id' : 229,
+		'rating' : 1
+	},
+	{
+		'id' : 675502,
+		'user_id' : "Hj",
+		'hotel_id' : 233,
+		'rating' : -1
+	},
+	{
+		'id' : 675503,
+		'user_id' : "Hj",
+		'hotel_id' : 234,
+		'rating' : -1
+	},
+	{
+		'id' : 675504,
+		'user_id' : "Hj",
+		'hotel_id' : 236,
+		'rating' : 1
+	},
+	{
+		'id' : 675505,
+		'user_id' : "Hj",
+		'hotel_id' : 241,
+		'rating' : 1
+	},
+	{
+		'id' : 675506,
+		'user_id' : "Hj",
+		'hotel_id' : 242,
+		'rating' : 1
+	},
+	{
+		'id' : 675507,
+		'user_id' : "Hj",
+		'hotel_id' : 243,
+		'rating' : -1
+	},
+	{
+		'id' : 675508,
+		'user_id' : "Hj",
+		'hotel_id' : 246,
+		'rating' : -1
+	},
+	{
+		'id' : 675509,
+		'user_id' : "Hj",
+		'hotel_id' : 248,
+		'rating' : 1
+	},
+	{
+		'id' : 675510,
+		'user_id' : "Hj",
+		'hotel_id' : 251,
+		'rating' : -1
+	},
+	{
+		'id' : 675511,
+		'user_id' : "Hj",
+		'hotel_id' : 256,
+		'rating' : 1
+	},
+	{
+		'id' : 675512,
+		'user_id' : "Hj",
+		'hotel_id' : 262,
+		'rating' : 1
+	},
+	{
+		'id' : 675513,
+		'user_id' : "Hj",
+		'hotel_id' : 267,
+		'rating' : 1
+	},
+	{
+		'id' : 675514,
+		'user_id' : "Hj",
+		'hotel_id' : 274,
+		'rating' : 1
+	},
+	{
+		'id' : 675515,
+		'user_id' : "Hj",
+		'hotel_id' : 275,
+		'rating' : -1
+	},
+	{
+		'id' : 675516,
+		'user_id' : "Hj",
+		'hotel_id' : 288,
+		'rating' : -1
+	},
+	{
+		'id' : 675517,
+		'user_id' : "Hj",
+		'hotel_id' : 293,
+		'rating' : 1
+	},
+	{
+		'id' : 675518,
+		'user_id' : "Hj",
+		'hotel_id' : 295,
+		'rating' : 1
+	},
+	{
+		'id' : 675519,
+		'user_id' : "Hj",
+		'hotel_id' : 296,
+		'rating' : 1
+	},
+	{
+		'id' : 675520,
+		'user_id' : "Hj",
+		'hotel_id' : 304,
+		'rating' : -1
+	},
+	{
+		'id' : 675521,
+		'user_id' : "Hj",
+		'hotel_id' : 305,
+		'rating' : 1
+	},
+	{
+		'id' : 675522,
+		'user_id' : "Hj",
+		'hotel_id' : 318,
+		'rating' : -1
+	},
+	{
+		'id' : 675523,
+		'user_id' : "Hj",
+		'hotel_id' : 325,
+		'rating' : 1
+	},
+	{
+		'id' : 675524,
+		'user_id' : "Hj",
+		'hotel_id' : 328,
+		'rating' : 1
+	},
+	{
+		'id' : 675525,
+		'user_id' : "Hj",
+		'hotel_id' : 329,
+		'rating' : 1
+	},
+	{
+		'id' : 675526,
+		'user_id' : "Hj",
+		'hotel_id' : 331,
+		'rating' : 1
+	},
+	{
+		'id' : 675527,
+		'user_id' : "Hj",
+		'hotel_id' : 335,
+		'rating' : 1
+	},
+	{
+		'id' : 675528,
+		'user_id' : "Hj",
+		'hotel_id' : 340,
+		'rating' : 1
+	},
+	{
+		'id' : 675529,
+		'user_id' : "Hj",
+		'hotel_id' : 342,
+		'rating' : -1
+	},
+	{
+		'id' : 675530,
+		'user_id' : "Hj",
+		'hotel_id' : 343,
+		'rating' : 1
+	},
+	{
+		'id' : 675531,
+		'user_id' : "Hj",
+		'hotel_id' : 345,
+		'rating' : -1
+	},
+	{
+		'id' : 675532,
+		'user_id' : "Hj",
+		'hotel_id' : 348,
+		'rating' : 1
+	},
+	{
+		'id' : 675533,
+		'user_id' : "Hj",
+		'hotel_id' : 352,
+		'rating' : 1
+	},
+	{
+		'id' : 675534,
+		'user_id' : "Hj",
+		'hotel_id' : 357,
+		'rating' : -1
+	},
+	{
+		'id' : 675535,
+		'user_id' : "Hj",
+		'hotel_id' : 360,
+		'rating' : 1
+	},
+	{
+		'id' : 675536,
+		'user_id' : "Hj",
+		'hotel_id' : 375,
+		'rating' : 1
+	},
+	{
+		'id' : 675537,
+		'user_id' : "Hj",
+		'hotel_id' : 384,
+		'rating' : -1
+	},
+	{
+		'id' : 675538,
+		'user_id' : "Hj",
+		'hotel_id' : 389,
+		'rating' : 1
+	},
+	{
+		'id' : 675539,
+		'user_id' : "Hj",
+		'hotel_id' : 393,
+		'rating' : 1
+	},
+	{
+		'id' : 675540,
+		'user_id' : "Hj",
+		'hotel_id' : 404,
+		'rating' : 1
+	},
+	{
+		'id' : 675541,
+		'user_id' : "Hj",
+		'hotel_id' : 405,
+		'rating' : -1
+	},
+	{
+		'id' : 675542,
+		'user_id' : "Hj",
+		'hotel_id' : 407,
+		'rating' : 1
+	},
+	{
+		'id' : 675543,
+		'user_id' : "Hj",
+		'hotel_id' : 408,
+		'rating' : 1
+	},
+	{
+		'id' : 675544,
+		'user_id' : "Hj",
+		'hotel_id' : 414,
+		'rating' : 1
+	},
+	{
+		'id' : 675545,
+		'user_id' : "Hj",
+		'hotel_id' : 415,
+		'rating' : 1
+	},
+	{
+		'id' : 675546,
+		'user_id' : "Hj",
+		'hotel_id' : 418,
+		'rating' : -1
+	},
+	{
+		'id' : 675547,
+		'user_id' : "Hj",
+		'hotel_id' : 429,
+		'rating' : 1
+	},
+	{
+		'id' : 675548,
+		'user_id' : "Hj",
+		'hotel_id' : 434,
+		'rating' : 1
+	},
+	{
+		'id' : 675549,
+		'user_id' : "Hj",
+		'hotel_id' : 442,
+		'rating' : 1
+	},
+	{
+		'id' : 675550,
+		'user_id' : "Hj",
+		'hotel_id' : 447,
+		'rating' : -1
+	},
+	{
+		'id' : 675551,
+		'user_id' : "Hj",
+		'hotel_id' : 453,
+		'rating' : -1
+	},
+	{
+		'id' : 675552,
+		'user_id' : "Hj",
+		'hotel_id' : 455,
+		'rating' : 1
+	},
+	{
+		'id' : 675553,
+		'user_id' : "Hj",
+		'hotel_id' : 458,
+		'rating' : 1
+	},
+	{
+		'id' : 675554,
+		'user_id' : "Hj",
+		'hotel_id' : 462,
+		'rating' : 1
+	},
+	{
+		'id' : 675555,
+		'user_id' : "Hj",
+		'hotel_id' : 465,
+		'rating' : 1
+	},
+	{
+		'id' : 675556,
+		'user_id' : "Hj",
+		'hotel_id' : 472,
+		'rating' : 1
+	},
+	{
+		'id' : 675557,
+		'user_id' : "Hj",
+		'hotel_id' : 478,
+		'rating' : -1
+	},
+	{
+		'id' : 675558,
+		'user_id' : "Hj",
+		'hotel_id' : 482,
+		'rating' : 1
+	},
+	{
+		'id' : 675559,
+		'user_id' : "Hj",
+		'hotel_id' : 499,
+		'rating' : 1
+	},
+	{
+		'id' : 675560,
+		'user_id' : "Hj",
+		'hotel_id' : 505,
+		'rating' : 1
+	},
+	{
+		'id' : 675561,
+		'user_id' : "Hj",
+		'hotel_id' : 516,
+		'rating' : 1
+	},
+	{
+		'id' : 675562,
+		'user_id' : "Hj",
+		'hotel_id' : 521,
+		'rating' : -1
+	},
+	{
+		'id' : 675563,
+		'user_id' : "Hj",
+		'hotel_id' : 526,
+		'rating' : 1
+	},
+	{
+		'id' : 675564,
+		'user_id' : "Hj",
+		'hotel_id' : 538,
+		'rating' : -1
+	},
+	{
+		'id' : 675565,
+		'user_id' : "Hj",
+		'hotel_id' : 555,
+		'rating' : -1
+	},
+	{
+		'id' : 675566,
+		'user_id' : "Hj",
+		'hotel_id' : 561,
+		'rating' : 1
+	},
+	{
+		'id' : 675567,
+		'user_id' : "Hj",
+		'hotel_id' : 562,
+		'rating' : 1
+	},
+	{
+		'id' : 675568,
+		'user_id' : "Hj",
+		'hotel_id' : 565,
+		'rating' : 1
+	},
+	{
+		'id' : 675569,
+		'user_id' : "Hj",
+		'hotel_id' : 574,
+		'rating' : -1
+	},
+	{
+		'id' : 675570,
+		'user_id' : "Hj",
+		'hotel_id' : 578,
+		'rating' : 1
+	},
+	{
+		'id' : 675571,
+		'user_id' : "Hj",
+		'hotel_id' : 582,
+		'rating' : 1
+	},
+	{
+		'id' : 675572,
+		'user_id' : "Hj",
+		'hotel_id' : 585,
+		'rating' : 1
+	},
+	{
+		'id' : 675573,
+		'user_id' : "Hj",
+		'hotel_id' : 589,
+		'rating' : -1
+	},
+	{
+		'id' : 675574,
+		'user_id' : "Hj",
+		'hotel_id' : 592,
+		'rating' : -1
+	},
+	{
+		'id' : 675575,
+		'user_id' : "Hj",
+		'hotel_id' : 595,
+		'rating' : 1
+	},
+	{
+		'id' : 675576,
+		'user_id' : "Hj",
+		'hotel_id' : 606,
+		'rating' : 1
+	},
+	{
+		'id' : 675577,
+		'user_id' : "Hj",
+		'hotel_id' : 608,
+		'rating' : -1
+	},
+	{
+		'id' : 675578,
+		'user_id' : "Hj",
+		'hotel_id' : 609,
+		'rating' : 1
+	},
+	{
+		'id' : 675579,
+		'user_id' : "Hj",
+		'hotel_id' : 610,
+		'rating' : -1
+	},
+	{
+		'id' : 675580,
+		'user_id' : "Hj",
+		'hotel_id' : 624,
+		'rating' : -1
+	},
+	{
+		'id' : 675581,
+		'user_id' : "Hj",
+		'hotel_id' : 636,
+		'rating' : 1
+	},
+	{
+		'id' : 675582,
+		'user_id' : "Hj",
+		'hotel_id' : 641,
+		'rating' : 1
+	},
+	{
+		'id' : 675583,
+		'user_id' : "Hj",
+		'hotel_id' : 651,
+		'rating' : 1
+	},
+	{
+		'id' : 675584,
+		'user_id' : "Hj",
+		'hotel_id' : 652,
+		'rating' : 1
+	},
+	{
+		'id' : 675585,
+		'user_id' : "Amy",
+		'hotel_id' : 8,
+		'rating' : 1
+	},
+	{
+		'id' : 675586,
+		'user_id' : "Amy",
+		'hotel_id' : 16,
+		'rating' : 1
+	},
+	{
+		'id' : 675587,
+		'user_id' : "Amy",
+		'hotel_id' : 39,
+		'rating' : 1
+	},
+	{
+		'id' : 675588,
+		'user_id' : "Amy",
+		'hotel_id' : 46,
+		'rating' : 1
+	},
+	{
+		'id' : 675589,
+		'user_id' : "Amy",
+		'hotel_id' : 49,
+		'rating' : 1
+	},
+	{
+		'id' : 675590,
+		'user_id' : "Amy",
+		'hotel_id' : 55,
+		'rating' : -1
+	},
+	{
+		'id' : 675591,
+		'user_id' : "Amy",
+		'hotel_id' : 64,
+		'rating' : 1
+	},
+	{
+		'id' : 675592,
+		'user_id' : "Amy",
+		'hotel_id' : 65,
+		'rating' : 1
+	},
+	{
+		'id' : 675593,
+		'user_id' : "Amy",
+		'hotel_id' : 69,
+		'rating' : 1
+	},
+	{
+		'id' : 675594,
+		'user_id' : "Amy",
+		'hotel_id' : 74,
+		'rating' : 1
+	},
+	{
+		'id' : 675595,
+		'user_id' : "Amy",
+		'hotel_id' : 76,
+		'rating' : 1
+	},
+	{
+		'id' : 675596,
+		'user_id' : "Amy",
+		'hotel_id' : 80,
+		'rating' : 1
+	},
+	{
+		'id' : 675597,
+		'user_id' : "Amy",
+		'hotel_id' : 103,
+		'rating' : 1
+	},
+	{
+		'id' : 675598,
+		'user_id' : "Amy",
+		'hotel_id' : 109,
+		'rating' : 1
+	},
+	{
+		'id' : 675599,
+		'user_id' : "Amy",
+		'hotel_id' : 112,
+		'rating' : -1
+	},
+	{
+		'id' : 675600,
+		'user_id' : "Amy",
+		'hotel_id' : 113,
+		'rating' : 1
+	},
+	{
+		'id' : 675601,
+		'user_id' : "Amy",
+		'hotel_id' : 114,
+		'rating' : 1
+	},
+	{
+		'id' : 675602,
+		'user_id' : "Amy",
+		'hotel_id' : 122,
+		'rating' : 1
+	},
+	{
+		'id' : 675603,
+		'user_id' : "Amy",
+		'hotel_id' : 130,
+		'rating' : -1
+	},
+	{
+		'id' : 675604,
+		'user_id' : "Amy",
+		'hotel_id' : 132,
+		'rating' : 1
+	},
+	{
+		'id' : 675605,
+		'user_id' : "Amy",
+		'hotel_id' : 135,
+		'rating' : 1
+	},
+	{
+		'id' : 675606,
+		'user_id' : "Amy",
+		'hotel_id' : 138,
+		'rating' : -1
+	},
+	{
+		'id' : 675607,
+		'user_id' : "Amy",
+		'hotel_id' : 140,
+		'rating' : -1
+	},
+	{
+		'id' : 675608,
+		'user_id' : "Amy",
+		'hotel_id' : 148,
+		'rating' : 1
+	},
+	{
+		'id' : 675609,
+		'user_id' : "Amy",
+		'hotel_id' : 150,
+		'rating' : 1
+	},
+	{
+		'id' : 675610,
+		'user_id' : "Amy",
+		'hotel_id' : 153,
+		'rating' : 1
+	},
+	{
+		'id' : 675611,
+		'user_id' : "Amy",
+		'hotel_id' : 154,
+		'rating' : 1
+	},
+	{
+		'id' : 675612,
+		'user_id' : "Amy",
+		'hotel_id' : 155,
+		'rating' : -1
+	},
+	{
+		'id' : 675613,
+		'user_id' : "Amy",
+		'hotel_id' : 157,
+		'rating' : -1
+	},
+	{
+		'id' : 675614,
+		'user_id' : "Amy",
+		'hotel_id' : 163,
+		'rating' : 1
+	},
+	{
+		'id' : 675615,
+		'user_id' : "Amy",
+		'hotel_id' : 164,
+		'rating' : -1
+	},
+	{
+		'id' : 675616,
+		'user_id' : "Amy",
+		'hotel_id' : 166,
+		'rating' : 1
+	},
+	{
+		'id' : 675617,
+		'user_id' : "Amy",
+		'hotel_id' : 169,
+		'rating' : 1
+	},
+	{
+		'id' : 675618,
+		'user_id' : "Amy",
+		'hotel_id' : 170,
+		'rating' : 1
+	},
+	{
+		'id' : 675619,
+		'user_id' : "Amy",
+		'hotel_id' : 174,
+		'rating' : 1
+	},
+	{
+		'id' : 675620,
+		'user_id' : "Amy",
+		'hotel_id' : 175,
+		'rating' : 1
+	},
+	{
+		'id' : 675621,
+		'user_id' : "Amy",
+		'hotel_id' : 176,
+		'rating' : 1
+	},
+	{
+		'id' : 675622,
+		'user_id' : "Amy",
+		'hotel_id' : 180,
+		'rating' : 1
+	},
+	{
+		'id' : 675623,
+		'user_id' : "Amy",
+		'hotel_id' : 185,
+		'rating' : 1
+	},
+	{
+		'id' : 675624,
+		'user_id' : "Amy",
+		'hotel_id' : 189,
+		'rating' : -1
+	},
+	{
+		'id' : 675625,
+		'user_id' : "Amy",
+		'hotel_id' : 192,
+		'rating' : 1
+	},
+	{
+		'id' : 675626,
+		'user_id' : "Amy",
+		'hotel_id' : 196,
+		'rating' : 1
+	},
+	{
+		'id' : 675627,
+		'user_id' : "Amy",
+		'hotel_id' : 198,
+		'rating' : -1
+	},
+	{
+		'id' : 675628,
+		'user_id' : "Amy",
+		'hotel_id' : 204,
+		'rating' : 1
+	},
+	{
+		'id' : 675629,
+		'user_id' : "Amy",
+		'hotel_id' : 206,
+		'rating' : -1
+	},
+	{
+		'id' : 675630,
+		'user_id' : "Amy",
+		'hotel_id' : 220,
+		'rating' : 1
+	},
+	{
+		'id' : 675631,
+		'user_id' : "Amy",
+		'hotel_id' : 223,
+		'rating' : 1
+	},
+	{
+		'id' : 675632,
+		'user_id' : "Amy",
+		'hotel_id' : 231,
+		'rating' : -1
+	},
+	{
+		'id' : 675633,
+		'user_id' : "Amy",
+		'hotel_id' : 234,
+		'rating' : 1
+	},
+	{
+		'id' : 675634,
+		'user_id' : "Amy",
+		'hotel_id' : 236,
+		'rating' : 1
+	},
+	{
+		'id' : 675635,
+		'user_id' : "Amy",
+		'hotel_id' : 240,
+		'rating' : 1
+	},
+	{
+		'id' : 675636,
+		'user_id' : "Amy",
+		'hotel_id' : 248,
+		'rating' : -1
+	},
+	{
+		'id' : 675637,
+		'user_id' : "Amy",
+		'hotel_id' : 253,
+		'rating' : 1
+	},
+	{
+		'id' : 675638,
+		'user_id' : "Amy",
+		'hotel_id' : 257,
+		'rating' : -1
+	},
+	{
+		'id' : 675639,
+		'user_id' : "Amy",
+		'hotel_id' : 262,
+		'rating' : 1
+	},
+	{
+		'id' : 675640,
+		'user_id' : "Amy",
+		'hotel_id' : 268,
+		'rating' : -1
+	},
+	{
+		'id' : 675641,
+		'user_id' : "Amy",
+		'hotel_id' : 270,
+		'rating' : 1
+	},
+	{
+		'id' : 675642,
+		'user_id' : "Amy",
+		'hotel_id' : 274,
+		'rating' : 1
+	},
+	{
+		'id' : 675643,
+		'user_id' : "Amy",
+		'hotel_id' : 282,
+		'rating' : 1
+	},
+	{
+		'id' : 675644,
+		'user_id' : "Amy",
+		'hotel_id' : 288,
+		'rating' : 1
+	},
+	{
+		'id' : 675645,
+		'user_id' : "Amy",
+		'hotel_id' : 294,
+		'rating' : 1
+	},
+	{
+		'id' : 675646,
+		'user_id' : "Amy",
+		'hotel_id' : 295,
+		'rating' : -1
+	},
+	{
+		'id' : 675647,
+		'user_id' : "Amy",
+		'hotel_id' : 302,
+		'rating' : 1
+	},
+	{
+		'id' : 675648,
+		'user_id' : "Amy",
+		'hotel_id' : 304,
+		'rating' : -1
+	},
+	{
+		'id' : 675649,
+		'user_id' : "Amy",
+		'hotel_id' : 305,
+		'rating' : 1
+	},
+	{
+		'id' : 675650,
+		'user_id' : "Amy",
+		'hotel_id' : 307,
+		'rating' : 1
+	},
+	{
+		'id' : 675651,
+		'user_id' : "Amy",
+		'hotel_id' : 310,
+		'rating' : 1
+	},
+	{
+		'id' : 675652,
+		'user_id' : "Amy",
+		'hotel_id' : 311,
+		'rating' : -1
+	},
+	{
+		'id' : 675653,
+		'user_id' : "Amy",
+		'hotel_id' : 314,
+		'rating' : 1
+	},
+	{
+		'id' : 675654,
+		'user_id' : "Amy",
+		'hotel_id' : 318,
+		'rating' : -1
+	},
+	{
+		'id' : 675655,
+		'user_id' : "Amy",
+		'hotel_id' : 323,
+		'rating' : 1
+	},
+	{
+		'id' : 675656,
+		'user_id' : "Amy",
+		'hotel_id' : 325,
+		'rating' : 1
+	},
+	{
+		'id' : 675657,
+		'user_id' : "Amy",
+		'hotel_id' : 328,
+		'rating' : 1
+	},
+	{
+		'id' : 675658,
+		'user_id' : "Amy",
+		'hotel_id' : 329,
+		'rating' : -1
+	},
+	{
+		'id' : 675659,
+		'user_id' : "Amy",
+		'hotel_id' : 334,
+		'rating' : -1
+	},
+	{
+		'id' : 675660,
+		'user_id' : "Amy",
+		'hotel_id' : 337,
+		'rating' : -1
+	},
+	{
+		'id' : 675661,
+		'user_id' : "Amy",
+		'hotel_id' : 342,
+		'rating' : 1
+	},
+	{
+		'id' : 675662,
+		'user_id' : "Amy",
+		'hotel_id' : 343,
+		'rating' : 1
+	},
+	{
+		'id' : 675663,
+		'user_id' : "Amy",
+		'hotel_id' : 346,
+		'rating' : 1
+	},
+	{
+		'id' : 675664,
+		'user_id' : "Amy",
+		'hotel_id' : 349,
+		'rating' : 1
+	},
+	{
+		'id' : 675665,
+		'user_id' : "Amy",
+		'hotel_id' : 355,
+		'rating' : -1
+	},
+	{
+		'id' : 675666,
+		'user_id' : "Amy",
+		'hotel_id' : 356,
+		'rating' : 1
+	},
+	{
+		'id' : 675667,
+		'user_id' : "Amy",
+		'hotel_id' : 358,
+		'rating' : -1
+	},
+	{
+		'id' : 675668,
+		'user_id' : "Amy",
+		'hotel_id' : 360,
+		'rating' : 1
+	},
+	{
+		'id' : 675669,
+		'user_id' : "Amy",
+		'hotel_id' : 363,
+		'rating' : -1
+	},
+	{
+		'id' : 675670,
+		'user_id' : "Amy",
+		'hotel_id' : 364,
+		'rating' : 1
+	},
+	{
+		'id' : 675671,
+		'user_id' : "Amy",
+		'hotel_id' : 367,
+		'rating' : 1
+	},
+	{
+		'id' : 675672,
+		'user_id' : "Amy",
+		'hotel_id' : 377,
+		'rating' : 1
+	},
+	{
+		'id' : 675673,
+		'user_id' : "Amy",
+		'hotel_id' : 386,
+		'rating' : 1
+	},
+	{
+		'id' : 675674,
+		'user_id' : "Amy",
+		'hotel_id' : 388,
+		'rating' : -1
+	},
+	{
+		'id' : 675675,
+		'user_id' : "Amy",
+		'hotel_id' : 404,
+		'rating' : -1
+	},
+	{
+		'id' : 675676,
+		'user_id' : "Amy",
+		'hotel_id' : 407,
+		'rating' : -1
+	},
+	{
+		'id' : 675677,
+		'user_id' : "Amy",
+		'hotel_id' : 418,
+		'rating' : 1
+	},
+	{
+		'id' : 675678,
+		'user_id' : "Amy",
+		'hotel_id' : 421,
+		'rating' : -1
+	},
+	{
+		'id' : 675679,
+		'user_id' : "Amy",
+		'hotel_id' : 440,
+		'rating' : 1
+	},
+	{
+		'id' : 675680,
+		'user_id' : "Amy",
+		'hotel_id' : 445,
+		'rating' : 1
+	},
+	{
+		'id' : 675681,
+		'user_id' : "Amy",
+		'hotel_id' : 450,
+		'rating' : -1
+	},
+	{
+		'id' : 675682,
+		'user_id' : "Amy",
+		'hotel_id' : 455,
+		'rating' : 1
+	},
+	{
+		'id' : 675683,
+		'user_id' : "Amy",
+		'hotel_id' : 457,
+		'rating' : 1
+	},
+	{
+		'id' : 675684,
+		'user_id' : "Amy",
+		'hotel_id' : 461,
+		'rating' : -1
+	},
+	{
+		'id' : 675685,
+		'user_id' : "Amy",
+		'hotel_id' : 462,
+		'rating' : 1
+	},
+	{
+		'id' : 675686,
+		'user_id' : "Amy",
+		'hotel_id' : 465,
+		'rating' : -1
+	},
+	{
+		'id' : 675687,
+		'user_id' : "Amy",
+		'hotel_id' : 480,
+		'rating' : -1
+	},
+	{
+		'id' : 675688,
+		'user_id' : "Amy",
+		'hotel_id' : 486,
+		'rating' : -1
+	},
+	{
+		'id' : 675689,
+		'user_id' : "Amy",
+		'hotel_id' : 487,
+		'rating' : 1
+	},
+	{
+		'id' : 675690,
+		'user_id' : "Amy",
+		'hotel_id' : 512,
+		'rating' : 1
+	},
+	{
+		'id' : 675691,
+		'user_id' : "Amy",
+		'hotel_id' : 533,
+		'rating' : 1
+	},
+	{
+		'id' : 675692,
+		'user_id' : "Amy",
+		'hotel_id' : 538,
+		'rating' : -1
+	},
+	{
+		'id' : 675693,
+		'user_id' : "Amy",
+		'hotel_id' : 539,
+		'rating' : -1
+	},
+	{
+		'id' : 675694,
+		'user_id' : "Amy",
+		'hotel_id' : 542,
+		'rating' : -1
+	},
+	{
+		'id' : 675695,
+		'user_id' : "Amy",
+		'hotel_id' : 554,
+		'rating' : 1
+	},
+	{
+		'id' : 675696,
+		'user_id' : "Amy",
+		'hotel_id' : 556,
+		'rating' : 1
+	},
+	{
+		'id' : 675697,
+		'user_id' : "Amy",
+		'hotel_id' : 557,
+		'rating' : 1
+	},
+	{
+		'id' : 675698,
+		'user_id' : "Amy",
+		'hotel_id' : 558,
+		'rating' : -1
+	},
+	{
+		'id' : 675699,
+		'user_id' : "Amy",
+		'hotel_id' : 561,
+		'rating' : 1
+	},
+	{
+		'id' : 675700,
+		'user_id' : "Amy",
+		'hotel_id' : 570,
+		'rating' : -1
+	},
+	{
+		'id' : 675701,
+		'user_id' : "Amy",
+		'hotel_id' : 581,
+		'rating' : 1
+	},
+	{
+		'id' : 675702,
+		'user_id' : "Amy",
+		'hotel_id' : 605,
+		'rating' : 1
+	},
+	{
+		'id' : 675703,
+		'user_id' : "Amy",
+		'hotel_id' : 619,
+		'rating' : 1
+	},
+	{
+		'id' : 675704,
+		'user_id' : "Amy",
+		'hotel_id' : 621,
+		'rating' : 1
+	},
+	{
+		'id' : 675705,
+		'user_id' : "Amy",
+		'hotel_id' : 622,
+		'rating' : -1
+	},
+	{
+		'id' : 675706,
+		'user_id' : "Amy",
+		'hotel_id' : 623,
+		'rating' : -1
+	},
+	{
+		'id' : 675707,
+		'user_id' : "Amy",
+		'hotel_id' : 624,
+		'rating' : 1
+	},
+	{
+		'id' : 675708,
+		'user_id' : "Amy",
+		'hotel_id' : 634,
+		'rating' : 1
+	},
+	{
+		'id' : 675709,
+		'user_id' : "Amy",
+		'hotel_id' : 644,
+		'rating' : -1
+	},
+	{
+		'id' : 675710,
+		'user_id' : "Amy",
+		'hotel_id' : 650,
+		'rating' : 1
+	},
+	{
+		'id' : 675711,
+		'user_id' : "Amy",
+		'hotel_id' : 651,
+		'rating' : -1
+	},
+	{
+		'id' : 675712,
+		'user_id' : "Nick",
+		'hotel_id' : 1,
+		'rating' : -1
+	},
+	{
+		'id' : 675713,
+		'user_id' : "Nick",
+		'hotel_id' : 6,
+		'rating' : 1
+	},
+	{
+		'id' : 675714,
+		'user_id' : "Nick",
+		'hotel_id' : 13,
+		'rating' : -1
+	},
+	{
+		'id' : 675715,
+		'user_id' : "Nick",
+		'hotel_id' : 15,
+		'rating' : -1
+	},
+	{
+		'id' : 675716,
+		'user_id' : "Nick",
+		'hotel_id' : 16,
+		'rating' : 1
+	},
+	{
+		'id' : 675717,
+		'user_id' : "Nick",
+		'hotel_id' : 18,
+		'rating' : 1
+	},
+	{
+		'id' : 675718,
+		'user_id' : "Nick",
+		'hotel_id' : 19,
+		'rating' : 1
+	},
+	{
+		'id' : 675719,
+		'user_id' : "Nick",
+		'hotel_id' : 26,
+		'rating' : 1
+	},
+	{
+		'id' : 675720,
+		'user_id' : "Nick",
+		'hotel_id' : 27,
+		'rating' : -1
+	},
+	{
+		'id' : 675721,
+		'user_id' : "Nick",
+		'hotel_id' : 41,
+		'rating' : 1
+	},
+	{
+		'id' : 675722,
+		'user_id' : "Nick",
+		'hotel_id' : 44,
+		'rating' : -1
+	},
+	{
+		'id' : 675723,
+		'user_id' : "Nick",
+		'hotel_id' : 45,
+		'rating' : 1
+	},
+	{
+		'id' : 675724,
+		'user_id' : "Nick",
+		'hotel_id' : 60,
+		'rating' : 1
+	},
+	{
+		'id' : 675725,
+		'user_id' : "Nick",
+		'hotel_id' : 65,
+		'rating' : -1
+	},
+	{
+		'id' : 675726,
+		'user_id' : "Nick",
+		'hotel_id' : 70,
+		'rating' : 1
+	},
+	{
+		'id' : 675727,
+		'user_id' : "Nick",
+		'hotel_id' : 85,
+		'rating' : 1
+	},
+	{
+		'id' : 675728,
+		'user_id' : "Nick",
+		'hotel_id' : 89,
+		'rating' : -1
+	},
+	{
+		'id' : 675729,
+		'user_id' : "Nick",
+		'hotel_id' : 96,
+		'rating' : -1
+	},
+	{
+		'id' : 675730,
+		'user_id' : "Nick",
+		'hotel_id' : 102,
+		'rating' : -1
+	},
+	{
+		'id' : 675731,
+		'user_id' : "Nick",
+		'hotel_id' : 107,
+		'rating' : 1
+	},
+	{
+		'id' : 675732,
+		'user_id' : "Nick",
+		'hotel_id' : 108,
+		'rating' : -1
+	},
+	{
+		'id' : 675733,
+		'user_id' : "Nick",
+		'hotel_id' : 117,
+		'rating' : 1
+	},
+	{
+		'id' : 675734,
+		'user_id' : "Nick",
+		'hotel_id' : 122,
+		'rating' : 1
+	},
+	{
+		'id' : 675735,
+		'user_id' : "Nick",
+		'hotel_id' : 125,
+		'rating' : 1
+	},
+	{
+		'id' : 675736,
+		'user_id' : "Nick",
+		'hotel_id' : 130,
+		'rating' : -1
+	},
+	{
+		'id' : 675737,
+		'user_id' : "Nick",
+		'hotel_id' : 133,
+		'rating' : 1
+	},
+	{
+		'id' : 675738,
+		'user_id' : "Nick",
+		'hotel_id' : 135,
+		'rating' : -1
+	},
+	{
+		'id' : 675739,
+		'user_id' : "Nick",
+		'hotel_id' : 144,
+		'rating' : 1
+	},
+	{
+		'id' : 675740,
+		'user_id' : "Nick",
+		'hotel_id' : 147,
+		'rating' : -1
+	},
+	{
+		'id' : 675741,
+		'user_id' : "Nick",
+		'hotel_id' : 155,
+		'rating' : 1
+	},
+	{
+		'id' : 675742,
+		'user_id' : "Nick",
+		'hotel_id' : 162,
+		'rating' : 1
+	},
+	{
+		'id' : 675743,
+		'user_id' : "Nick",
+		'hotel_id' : 166,
+		'rating' : -1
+	},
+	{
+		'id' : 675744,
+		'user_id' : "Nick",
+		'hotel_id' : 168,
+		'rating' : -1
+	},
+	{
+		'id' : 675745,
+		'user_id' : "Nick",
+		'hotel_id' : 170,
+		'rating' : -1
+	}
+]
